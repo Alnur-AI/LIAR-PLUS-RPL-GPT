@@ -1,0 +1,1268 @@
+id,Polarity,Tonality,Contradictions,Rhetorical Techniques,Propaganda Methods,Logical Errors
+0,negative,cautionary,no,"hyperbole, anecdote","appeal to authority, fear appeal",none 
+1,negative,alarmist,yes,"hyperbole, appeal to consequence","fear mongering, selective omission",non sequitur
+2,negative,accusatory,yes,"hyperbole, appeal to emotion","ad hominem, false dilemma",hasty generalization
+3,negative,critical,yes,"appeal to emotion, generalization","fearmongering, cherry-picking",['false dichotomy']
+4,negative,accusatory,yes,"anaphora, imagery, pathos","selective quoting, demonization, fear-mongering",hasty generalization
+5,negative,critical,no,"appeal to emotion, statistical evidence","fear-mongering, appeal to authority",hasty generalization
+6,neutral,informative,no,"appeal to authority, use of statistics, contrast","fear appeal, appeal to consequences, omission","['false dilemma', 'hasty generalization']"
+7,negative,critical,yes,"quoting, anecdote, appeal to emotion","misleading information, cherry-picking, fear appeal",straw man
+8,negative,critical,no,"direct quotation, appeal to historical precedent, dichotomy","labeling, fearmongering, slippery slope",hasty generalization
+9,negative,accusatory,yes,"appeal to authority, hyperbole","cherry-picking, misleading statistics",hasty generalization
+10,neutral,factual,yes,"assertion, appeal to authority, contrast","cherry-picking data, doubt creation, bandwagon appeal",['fallacy of hasty generalization']
+11,negative,assertive,no,"assertion, attribution, directness","ad hominem, appeal to authority, disinformation",none 
+12,negative,informative but misleading,yes,"misleading assertion, cultural appropriation","emotional appeal, appeal to authority",false premise
+13,negative,critical,yes,"cherry-picking, amplification","false dichotomy, ad populum",hasty generalization
+14,negative,critical,yes,"contradiction, appeal to emotion, irony","card stacking, name-calling, positioning",hasty generalization
+15,neutral,informational,no,"statistics, comparison, appeal to authority","plain folks, bandwagon",overgeneralization
+16,negative,serious,no,"emphasis, inclusive language, imagery","fearmongering, appeal to authority, anecdotal evidence",hasty generalization
+17,neutral,assertive,yes,"statistics, quoting authority","cherry-picking, bandwagon",hasty generalization
+18,negative,serious,no,"statistics, appeal to emotion, cause and effect","fearmongering, anecdotal evidence",none 
+19,negative,assertive,no,"comparative analysis, appeal to authority, anecdotal evidence","card stacking, demonization",hasty generalization
+20,positive,defensive,no,"appeal to logos, anecdotal evidence","cherry-picking, fearmongering",hasty generalization
+21,neutral,skeptical,yes,"anecdote, hyperbole, contrast","card stacking, glittering generalities",false dilemma
+22,negative,alarmist,yes,"hyperbole, repetition","fear-mongering, misleading statistics",appeal to emotion
+23,positive,informative,no,"comparative analysis, scientific appeal, use of authority","fear appeal, bandwagon effect, positive framing","['hasty generalization', 'false dichotomy']"
+24,negative,allegative,yes,"loaded language, appeal to fear, bandwagon","scapegoating, name-calling, false dilemma",hasty generalization
+25,neutral,reflective,no,"nostalgia, assertion, comparison","appeal to emotion, testimonial, anecdotal evidence",overgeneralization
+26,neutral,assertive,no,"anecdote, allusion, repetition","emotional appeal, testimonial, scare tactics",none identified
+27,negative,critical,yes,"contrast, hyperbole","ad populum, appeal to authority",false dichotomy
+28,negative,alarmist,yes,"hyperbole, conditional clause","scare tactics, appeal to authority",slippery slope
+29,negative,alarmist,yes,"comparison, statistical emphasis, appeal to authority","fearmongering, oversimplification, selective use of data",hasty generalization
+30,neutral,informative,no,"historical reference, contrast","appeal to tradition, framing","['ambiguity', 'unwarranted assumption']"
+31,negative,accusatory,yes,"innuendo, contrast, ambiguity","card-stacking, misleading statistics, bandwagon","['post hoc ergo propter hoc', 'hasty generalization']"
+32,neutral,inquisitive,no,"rhetorical question, inclusivity","bandwagon, emotional appeal",ambiguity
+33,negative,critical,yes,"appeal to authority, contrast, omission","card stacking, fear appeal, assertion",hasty generalization
+34,negative,critical,no,"rhetorical question, statistics, comparative analysis","appeal to authority, fear appeal",hasty generalization
+35,neutral,cautionary,yes,"anecdote, emotional appeal, antithesis","appeal to authority, fearmongering",no true scotsman fallacy
+36,negative,alarming,yes,"appeal to fear, statistics","card stacking, fear mongering",hasty generalization
+37,negative,critical,yes,"emphasis, anecdotal evidence, loaded language","fearmongering, demonization, oversimplification",straw man
+38,neutral,cautiously critical,yes,"hyperbole, anaphora, euphemism","appeal to emotion, cherry picking, slanting",hasty generalization
+39,positive,optimistic,yes,"anecdote, appeal to authority, concession","use of statistics, emotional appeal, factual presentation",no true scotsman
+40,neutral,assertive,yes,"appeal to authority, contrast","cherry-picking, bandwagon",misleading information
+41,negative,alarmist,yes,"hyperbole, imagery, dramatic contrast","fear appeal, scare tactics, loaded language","hasty generalization, false dilemma"
+42,negative,defensive,yes,"exaggeration, appeal to ethos, anecdotal evidence","cherry-picking, false dilemma, appeal to popularity",contradiction
+43,neutral,skeptical,yes,"anecdotal evidence, appeal to authority, contradiction","fear-mongering, selective reporting, ambiguity",hasty generalization
+44,neutral,informative,no,"historical reference, emphasis, contrast","testimonial, exaggeration",hasty generalization
+45,neutral,optimistic,yes,"assertion, hyperbole, appeal to authority","card stacking, misleading statistics","['cherry picking', 'overgeneralization']"
+46,negative,critical,yes,"contrast, appeal to authority, anecdotal evidence","scare tactics, appeal to progress, bipartisanship",appeal to hypocrisy
+47,negative,critical,yes,"comparison, appeal to authority","selective use of data, misleading attribution",['oversimplification']
+48,negative,critical,yes,"cherry-picking, appeal to emotion","fear-mongering, misleading statistics",hasty generalization
+49,negative,critical,no,"claim, anecdote, contrast","emotional appeal, bandwagon",oversimplification
+50,negative,critique,yes,"appeal to authority, ambiguity","card stacking, name-calling",hasty generalization
+51,neutral,cautious,yes,"ambiguity, appeal to emotion, quoting","straw man, fear-mongering, cherry-picking","misrepresentation, false dilemma"
+52,positive,optimistic,no,"anecdotal evidence, hyperbole, authority","transfer, glittering generalities, bandwagon","['hasty generalization', 'cherry-picking']"
+53,neutral,informative,no,"use of specific numbers, contrast","bandwagon, misleading statistics",hasty generalization
+54,negative,concerned,no,"statistic, contrast, quoting authority","fear appeals, overgeneralization, anecdotal evidence","['hasty generalization', 'appeal to emotion']"
+55,neutral,defensive,yes,"quantification, contrast, attribution","bandwagon, cherry-picking, scapegoating",hasty generalization
+56,positive,optimistic,no,"testimonial, superlative, inclusive language, appeal to authority","bandwagon, transfer, glittering generalities",hasty generalization
+57,negative,cautionary,yes,"appeal to authority, statistical evidence, hypothetical scenario","cherry picking, fearmongering, misleading statistics","['hasty generalization', 'post hoc ergo propter hoc']"
+58,neutral,urgent,no,"ethos, pathos","glittering generalities, fear appeal",fallacy of ambiguity
+59,negative,contradictory,yes,"statistical evidence, generalization","bandwagon, cherry-picking","['false dilemma', 'hasty generalization']"
+60,negative,alarmist,yes,"loaded language, appeal to authority, hyperbole","demonization, fearmongering, simplification",oversimplification
+61,negative,critical,yes,"causal link, appeal to authority, contrast","scapegoating, simplification, fear appeal","['post hoc ergo propter hoc', 'overgeneralization']"
+62,neutral,objective,no,"anecdotal evidence, appeal to authority","bandwagon, glittering generalities",hasty generalization
+63,negative,defensive,yes,"denial, euphemism, appeal to authority","deflection, victimhood, misleading information",false dilemma
+64,negative,cautionary,yes,"analogy, statistics, appeal to common knowledge","card stacking, glittering generalities, scare tactics","['hasty generalization', 'cherry picking']"
+65,negative,critical,yes,"false dichotomy, emotive language, oversimplification","scapegoating, bandwagon",hasty generalization
+66,negative,cautionary,no,"metaphor, hyperbole, allusion","scare tactics, appeal to emotion, false dichotomy","['hasty generalization', 'post hoc']"
+67,neutral,informative,yes,"hyperbole, inclusive language, temporal reference","statistics, authority appeal, vague generalization",factual error
+68,negative,critical,yes,"authority, anecdote, rhetorical question","testimonial, appeal to emotion, fear-mongering","ambiguity, post hoc fallacy"
+69,negative,cautionary,no,"comparison, quantification, appeal to authority","fearmongering, misleading statistics",hasty generalization
+70,negative,critical,no,"statistical evidence, hyperbole, dichotomy","ad hominem, fear appeal, bandwagon",hasty generalization
+71,negative,skeptical,yes,"quoting, contrast, deflection","fearmongering, misleading use of statistics, ambiguity",hasty generalization
+72,neutral,objective,yes,"appeal to authority, contradictory assertion, conditioning","bandwagon, demonization",hasty generalization
+73,negative,alarmist,yes,"metaphor, hyperbole, appeal to emotion","fearmongering, selectivity, bandwagon","['false equivalence', 'overgeneralization']"
+74,negative,skeptical,yes,"hyperbole, framing","scare tactics, card stacking",misleading statistics
+75,negative,cautionary,no,"anchoring, appeal to authority, quantitative emphasis","scare tactics, simplicity, selective omission",hasty generalization
+76,negative,judgmental,no,"appeal to authority, contrast, assertion","card stacking, fear appeal, ad hominem",hasty generalization
+77,negative,dismissive,yes,"equivalence, existential hedging, anecdotal","ad hominem, false dichotomy, appeal to authority","['hasty generalization', 'straw man']"
+78,negative,critical,yes,"contrast, hyperbole, appeal to emotion","selective presentation, fearmongering, contradictory statements",cherry-picking
+79,negative,defensive,no,"appeal to authority, antithesis, quoting","fear mongering, scapegoating, bandwagon",straw man fallacy
+80,negative,skeptical,yes,"statistics, appeal to authority","bandwagon, misleading statistics",overgeneralization
+81,neutral,dispassionate,yes,"euphemism, anecdotal evidence, ambiguity","assertion, omission, fear appeal","['oversimplification', 'false dichotomy']"
+82,positive,optimistic,no,"appeal to authority, statistics, contrast","card stacking, misleading statistics",red herring
+83,neutral,formal,yes,"anaphora, antithesis","appeal to emotion, scapegoating",ambiguity
+84,neutral,informative,yes,"repetition, appeal to authority, quantification","card stacking, glittering generalities",hasty generalization
+85,neutral,analytical,yes,"statistic use, comparative analysis, appeal to authority","cherry picking, overgeneralization",hasty generalization
+86,negative,concerning,no,"appeal to authority, loaded language, fear appeal","demonization, scapegoating, misleading implication",hasty generalization
+87,negative,critical,yes,"metaphor, anecdote, irony","demonization, fear appeals, emotional appeals",non-sequitur
+88,negative,alarmist,yes,"appeal to authority, quoting, hyperbole","fearmongering, cherry-picking, demonization",straw man
+89,neutral,defensive,no,"metaphor, alliteration, contrast","appeal to emotion, ad hominem",no logical fallacy present
+90,neutral,defensive,yes,"quoting, contrast","image management, emotional appeal",straw man argument
+91,negative,critical,no,"anaphora, appeal to authority","cherry-picking, fearmongering",hasty generalization
+92,negative,confrontational,yes,"appeal to authority, counterargument, qualification","scare tactics, bandwagon, cherry picking",hasty generalization
+93,negative,critical,yes,"enumeration, contrast, hyperbole","fearmongering, scapegoating",['false dichotomy']
+94,positive,optimistic,no,"anecdote, comparative analysis, assertion","glittering generalities, bandwagon",hasty generalization
+95,negative,skeptical,yes,"hyperbole, anecdote","appeal to emotion, disinformation",false analogy
+96,neutral,informative,no,"specificity, contrast, emphasis","appeal to history, statistics",overgeneralization
+97,negative,concerned,no,"statistical evidence, emotive language","appeal to fear, ad hominem",hasty generalization
+98,negative,alarmist,yes,"exaggeration, contrast, quoting authority","fearmongering, selective information",false cause
+99,neutral,cautious,yes,"ambiguity, contradiction, anaphora","misleading information, appeal to authority, emotional language","['false dilemma', 'hasty generalization']"
+100,neutral,analytical,no,"hyperbole, contrast, appeal to authority","glittering generality, card stacking, testimonial",false dichotomy
+101,positive,optimistic,no,"cause and effect, statistic appeal, authority","card stacking, testimonial, glittering generalities",post hoc ergo propter hoc
+102,negative,critical,no,"comparative analysis, anecdotal evidence, emphasis on statistics","appeal to emotion, selective reporting",overgeneralization
+103,positive,confident,no,"ethos, pathos, anecdote, amplification","bandwagon, testimonial, appeal to authority",hasty generalization
+104,negative,concerned,yes,"causal relationship, anecdotal evidence, temporal contrast","fear, bandwagon, doomsday",hasty generalization
+105,negative,critical,yes,"selective reporting, ambiguity, appeal to emotion","demonization, oversimplification, scapegoating",hasty generalization
+106,negative,critical,yes,"direct quotation, hyperbole, contrast","cherry-picking, fearmongering, loaded language",ambiguity
+107,negative,conversational,no,"repetition, hyperbole, colloquialism","fear appeals, assertion, emotional appeal",hyperbolic fallacy
+108,neutral,informative,no,"comparison, reference, quantification, ambiguity","appeal to authority, card stacking, fear appeal",none 
+109,negative,aggressive,no,"loaded language, history reference, appeal to emotion","demonization, false cause, scapegoating",hasty generalization
+110,negative,cynical,yes,"assertion, contradiction, hyperbole","cherry-picking, fear appeals",false dilemma
+111,negative,accusatory,yes,"ad hominem, appeal to fear, pathos","demonization, reductio ad hitlerum, guilt by association",hasty generalization
+112,negative,critical,yes,"oversimplification, authority appeal, ambiguity","bandwagon, card stacking, misleading labels","['post hoc', 'hasty generalization']"
+113,negative,accusatory,no,"hyperbole, ad hominem","fear mongering, repetition",appeal to emotion
+114,neutral,informative,yes,"allusion, questioning, contrast","appeal to authority, transfer, demonization",none identified
+115,neutral,informative,yes,"comparison, anecdotal evidence","appeal to authority, number manipulation",hasty generalization
+116,neutral,contemplative,yes,"hyperbole, comparative language, rhetorical question","bandwagon, ad hominem, name-calling",false dilemma
+117,neutral,speculative,yes,"hedges, comparative statement, use of specific figures","appeal to emotion, misleading statistics, authority appeal","['hasty generalization', 'overgeneralization']"
+118,negative,critical,yes,"deceptive editing, framing, appeal to inconsistency","selective omission, ad hominem",ambiguity
+119,negative,accusatory,yes,"hyperbole, ad hominem, pathos","fearmongering, bandwagon, demonization","['oversimplification', 'false cause']"
+120,neutral,informative,yes,"appeal to authority, misleading statement","fearmongering, red herring",ambiguity
+121,negative,accusatory,yes,"hyperbole, imagery, questioning","selective omission, evidence manipulation, appeals to emotion",post hoc ergo propter hoc
+122,negative,critical,no,"comparative analysis, listing","appeal to authority, selective statistics",false dichotomy
+123,negative,cynical,yes,"appeal to authority, dichotomy, rhetorical question","fear-mongering, euphemism, scapegoating","['false dilemma', 'overgeneralization']"
+124,negative,critical,yes,"anecdote, metaphor, hyperbole","ad hominem, appeal to authority, false dilemma",hasty generalization
+125,negative,critical,yes,"hyperbole, contrast","demonization, misleading statistics",fallacy of ambiguity
+126,negative,critical,yes,"antithesis, irony, hyperbole","ad hominem, misleading statistics, scare tactics",false dichotomy
+127,neutral,factual,no,"comparison, quoting, emphasis","selective omission, appeal to authority",none identified
+128,negative,critique,yes,"contrast, appeal to authority, omission","card-stacking, bandwagon, fearmongering","['cherry-picking', 'false dilemma']"
+129,negative,adversarial,no,"hyperbole, quoting authority","fearmongering, selective use of statistics",post hoc ergoto propter hoc
+130,negative,critical,yes,"ad hominem, appeal to emotion, slippery slope","straw man, red herring, fearmongering","['faulty generalization', 'appeal to authority']"
+131,neutral,descriptive,yes,"hyperbole, imagery, anecdote","emotional appeal, testimonial, diminishing the problem",none 
+132,negative,accusatory,yes,"quantification, vivid language","bandwagon, appeal to authority","['hasty generalization', 'cherry-picking']"
+133,negative,alarmist,yes,"hyperbole, anecdote, appeal to emotion","scare tactics, ad hominem, cherry-picking",hasty generalization
+134,neutral,informative,yes,"appeal to authority, generalization, contrast","cherry-picking, bandwagon",hasty generalization
+135,neutral,informative,yes,"statistics, anecdotal evidence, contrast","cherry-picking, bandwagon, misleading emphasis",hasty generalization
+136,negative,defensive,yes,"repetition, euphemism, quoting","misleading statistics, ad hominem, appeal to ridicule",false dilemma
+137,neutral,informative,yes,"statistics, anecdote, contrast","appeal to emotion, card stacking, fearmongering",overgeneralization
+138,negative,critical,no,"simile, anecdote, appeal to authority","bandwagon, testimonial, demonization","false dilemma, hasty generalization"
+139,negative,defensive,yes,"anecdotal evidence, appeal to authority, repetition","fear appeal, scapegoating","['hasty generalization', 'false dichotomy']"
+140,negative,critical,yes,"contradiction, appeal to authority, hyperbole","cherry picking, foot-in-the-door, assertion","['hasty generalization', 'false dilemma']"
+141,neutral,informative,no,"appeal to authority, ambiguity","fear-mongering, selective omission",none 
+142,negative,critical,no,"anecdotal evidence, appeal to authority, concession","fearmongering, bandwagon",hasty generalization
+143,neutral,analytical,yes,"anecdotal evidence, appeal to authority, ambiguity","card stacking, simplification, diminishing the counterargument",false dichotomy
+144,neutral,defensive,yes,"anecdote, contrast, euphemism","ad hominem, appeal to emotion, glittering generalities",strawman fallacy
+145,negative,urgent,no,"comparison, anecdotal evidence","emphasis, fear appeal",hasty generalization
+146,negative,critical,no,"anecdotes, concession, hyperbole","scapegoating, bandwagon, red herring",hasty generalization
+147,neutral,slightly positive,yes,"appeal to authority, repetition, inclusive language","card stacking, testimonial","hasty generalization, false dichotomy"
+148,negative,accusatory,yes,"dichotomy, appeal to authority","fear-mongering, doubt creation","['ad hominem', 'false dichotomy']"
+149,negative,accusatory,yes,"misleading statements, appeal to emotions","selective omission, red herring","['hasty generalization', 'false attribution']"
+150,negative,critical,yes,"hypothetical scenario, quoting authority, conditional clause","fear appeal, bandwagon technique, demonization of opposition",false dilemma
+151,positive,assertive,yes,"appeal to popularity, repetition, anecdotal evidence","bandwagon, card stacking","['hasty generalization', 'cherry picking']"
+152,negative,cautionary,yes,"contradiction, appeal to authority, use of contrast","card stacking, half-truth","['false dichotomy', 'cherry picking']"
+153,negative,alarmist,no,"statistic reference, comparative analysis","scapegoating, appeal to fear","['hasty generalization', 'post hoc']"
+154,negative,serious,no,"anecdote, authority appeal","transfer, card stacking",false dilemma
+155,negative,critical,no,"hyperbole, comparative","fearmongering, bandwagon",none 
+156,negative,critical,yes,"framing, appeal to authority, ambiguity, selectivity","smear campaign, false context, fear-mongering","['straw man', 'hasty generalization']"
+157,negative,cautionary,no,"anaphora, parallelism, historical reference","appeal to emotion, fearmongering",none 
+158,negative,urgent,no,"hyperbole, anecdote, direct address","emotional appeal, cherry picking, bandwagon","['false cause', 'oversimplification']"
+159,neutral,informative,yes,"superlative, contrast, anecdotal evidence","appeal to authority, selective omission",potential oversimplification
+160,neutral,objective,no,"statistical evidence, colloquial contrast, clarification","appeal to authority, cherry-picking","['misleading precision', 'implicative assumption']"
+161,negative,critical,yes,"hyperbole, quoting authority","bandwagon, oversimplification",hasty generalization
+162,negative,concerned,no,"comparative statement, generalization, appeal to agreement","scare tactics, appeal to popularity, omission",hasty generalization
+163,negative,critical,yes,"accusation, exaggeration, appeal to authority","demonization, fear-mongering, cherry-picking",strawman
+164,positive,assertive,yes,"hyperbole, comparative analysis, anecdotal evidence","bandwagon, false dichotomy",hasty generalization
+165,negative,critical,no,"appeal to authority, contrast, diminished responsibility","cherry-picking, ad hominem, testimonial","hasty generalization, false dichotomy"
+166,negative,accusatory,yes,"loaded language, appeal to fear, generalization","demonization, scare tactics, selective reporting","['hasty generalization', 'false cause']"
+167,neutral,cautionary,yes,"comparative rhetoric, hypothetical scenario","selective statistics, fearmongering",overgeneralization
+168,neutral,informative,yes,"appeal to authority, hyperbole, dichotomy","transfer, ad hominem",ambiguity
+169,negative,critical,no,"comparative, hyperbole","selective omission, ad hominem","['false dilemma', 'oversimplification']"
+170,negative,critical,yes,"hyperbole, comparative","fear-mongering, cherry picking",hasty generalization
+171,negative,critical,yes,"appeal to emotion, hypothetical conditional, direct address","fear-mongering, bandwagon appeal",slippery slope
+172,negative,serious,no,"statistic use, generalization","appeal to emotion, selective omission",hasty generalization
+173,neutral,cautionary,yes,"anecdotal evidence, appeal to emotion","emotional appeal, misleading statistics",hasty generalization
+174,positive,optimistic,no,"anecdote, statistics, appeal to authority","card stacking, transfer, glittering generalities",hasty generalization
+175,neutral,skeptical,yes,"exaggeration, appeal to authority, comparative language","demonizing the opposition, misleading statement",oversimplification
+176,negative,critical,no,"quotations, hyperbole, contrast","fear appeal, transfer, demonization",hasty generalization
+177,neutral,informative,no,"comparison, statistics, contrast","cherry-picking, appeal to authority",hasty generalization
+178,positive,optimistic,no,"antithesis, appeal to authority, logical appeal","bandwagon, cherry picking, emotional appeal",faulty causality
+179,negative,critical,no,"quoting, contrast, authority appeal","ad hominem, cherry-picking",hasty generalization
+180,positive,informative,no,"quoting, vagueness","bandwagon, appeal to authority",hasty generalization
+181,positive,optimistic,no,"comparison, emphasis","cherry picking, appeal to statistics",none 
+182,neutral,informative,yes,"statistical evidence, comparative analysis, anecdotal evidence","bandwagon, selective statistics, appeal to authority",overgeneralization
+183,negative,serious,yes,"statistics, appeal to emotion, anecdotal evidence","bandwagon, fearmongering",hasty generalization
+184,negative,critical,yes,"euphemism, hyperbole, allusion","demonization, appeal to negative emotion, selective omission","['hasty generalization', 'straw man']"
+185,positive,optimistic,no,"comparative analysis, quantitative evidence, emphasis","positive framing, selective omission",none 
+186,negative,alarmist,yes,"appeal to authority, hyperbole, framing","scare tactics, selective omission, appeal to emotion","['hasty generalization', 'false dilemma']"
+187,negative,concerned,no,"anaphora, appeal to authority, pathos","fearmongering, bandwagon",hasty generalization
+188,negative,critical,yes,"hyperbole, selective attention, appeal to fear","cherry-picking, obfuscation, fearmongering",misleading argument
+189,negative,critical,yes,"anaphora, quoting authority, concessive clause","scapegoating, assertion, appeal to emotion",hasty generalization
+190,negative,nostalgic,yes,"historical reference, hyperbole, contrast","anecdotal evidence, appeal to emotion",hasty generalization
+191,negative,critical,yes,"cherry-picking, false comparison","scare tactics, emotional appeal",hasty generalization
+192,negative,cautious,yes,"hedging, appeal to authority","oversimplification, fear-mongering",fallacy of composition
+193,negative,critical,yes,"assertion, quoting authority, contrast","misleading statistics, demonization, cherry-picking data",hasty generalization
+194,negative,critical,yes,"appeal to authority, contrast","oversimplification, selective presentation",hasty generalization
+195,neutral,informative,yes,"use of statistics, appeal to authority","half-truth, underlying implication",hasty generalization
+196,negative,accusatory,yes,"repetition, appeal to fear, contrast","demonization, scapegoating, selective omission",hasty generalization
+197,negative,critical,yes,"accusation, contrast, invoking emotion","ad hominem, guilt by association, selective omission","['hasty generalization', 'post hoc']"
+198,neutral,objective,no,"assertion, quantification, contrast","appeal to authority, selective statistics",hasty generalization
+199,negative,concerned,no,"contrast, statistics, anecdotal evidence","fearmongering, appeal to emotion, card stacking",hasty generalization
+200,negative,critical,yes,"appeal to authority, hyperbole, selective omission","card-stacking, ad hominem",['straw man']
+201,negative,accusatory,no,"statistics, contrast","selective omission, ad hominem",hasty generalization
+202,negative,skeptical,yes,"appeal to authority, anecdotal evidence, contrast","assertion, glittering generality, card stacking",hasty generalization
+203,negative,accusatory,yes,"quoting authority, hyperbole","misleading information, appeal to emotions",straw man
+204,positive,advocative,yes,"appeal to majority, statistics, emotional appeal","card stacking, bandwagon, fear mongering",hasty generalization
+205,negative,urgent,no,"hyperbole, analogy, call to action","fearmongering, appeal to statistics",false dichotomy
+206,negative,defensive,yes,"anecdote, quotation, contrast","doubt, exaggeration, testimonial",statistical misinterpretation
+207,negative,alarmist,yes,"exaggeration, appeal to emotion","bandwagon, scare tactics",appeal to authority
+208,negative,alarmist,yes,appeal to emotion,"scare tactics, false dilemma",hasty generalization
+209,negative,critical,yes,"appeal to authority, adverse, emotional, appeal","name-calling, misleading statistics",overgeneralization
+210,negative,alarmist,no,"appeal to fear, vague language, quoting experts","one-sided argumentation, fear-mongering, misleading statistics","['hasty generalization', 'false cause']"
+211,negative,alarmist,yes,"appeal to emotion, use of statistics, pathos","fear mongering, selective information, appeal to authority",hasty generalization
+212,negative,critical,no,"appeal to authority, analogy, questioning","labeling, false dichotomy",misleading statistics
+213,negative,aggressive,yes,"hyperbole, metaphor, loaded language","fear mongering, demonizing the opponent, selective omission","['overgeneralization', 'false dichotomy']"
+214,negative,critical,yes,"antithesis, allusion","emotional appeal, card stacking",hasty generalization
+215,neutral,informative,yes,"statistical evidence, anecdotal approach","fear appeal, selective statistics",hasty generalization
+216,neutral,analytical,yes,"comparative analysis, appeal to authority, ambiguity","assertion, overgeneralization, dichotomy","['hasty generalization', 'false dichotomy']"
+217,negative,critical,no,"rhetorical question, comparative language, appeal to authority","cherry-picking data, appeal to emotions",hasty generalization
+218,negative,alarmist,no,"cherry-picking, appeal to emotion","half-truths, fear mongering","['statistical fallacy', 'misleading comparison']"
+219,negative,alarmist,yes,"metaphor, hyperbole","fear-mongering, cherry picking",fallacy of false dilemma
+220,negative,adversarial,yes,"hyperbole, anaphora","fear mongering, comparison",['hasty generalization']
+221,neutral,optimistic,yes,"superlative, contrast","glittering generalities, omission",hasty generalization
+222,negative,concerned,yes,"statistical evidence, red herring, appeal to emotion","cherry-picking, misleading statistics, fearmongering",causal fallacy
+223,negative,critical,no,"appeal to authority, metaphor, quoting","bandwagon, fear-mongering",hasty generalization
+224,neutral,factual,yes,"appeal to authority, definition, generalization","fearmongering, bandwagon",hasty generalization
+225,neutral,analytical,no,"statistical fact, anecdotal evidence","cherry picking, card stacking",none 
+226,positive,optimistic,yes,"statistics, appeal to authority, vagueness","cherry-picking, misleading comparisons","['hasty generalization', 'post hoc']"
+227,negative,critical,yes,"appeal to authority, comparison","cherry-picking, fear-mongering","['hasty generalization', 'false dichotomy']"
+228,neutral,conversational,yes,"hyperbole, juxtaposition, ambiguity","appeal to emotion, false dilemma, selective omission",hasty generalization
+229,negative,skeptical,yes,"juxtaposition, hyperbole, conditionality","fear-mongering, appeal to authority, selective omission",post hoc
+230,negative,accusatory,no,"contrast, paradox","fearmongering, name-calling","['hasty generalization', 'false dichotomy']"
+231,negative,critical,yes,"appeal to authority, antithesis, loaded language","card stacking, false dichotomy, pleading",hasty generalization
+232,neutral,analytical,yes,"comparison, contrast","emotional appeal, false dichotomy",no true scotsman
+233,negative,serious,no,"metaphor, statistics, allusion","fear appeal, bandwagon",hasty generalization
+234,neutral,ambivalent,yes,"anecdote, allusion, quoting a third party","demonization, fear appeal, appeal to authority",dodge
+235,negative,serious,no,"comparative analysis, statistics, causal language","fear mongering, cherry-picking, authority appeal",hasty generalization
+236,negative,concerned,no,"anecdotal evidence, emphasis, selectivity","fear appeal, card stacking, bandwagon",post hoc
+237,negative,cautious,yes,"anaphora, appeal to authority, negative connotation","cherry-picking, bandwagon, fear-mongering",hasty generalization
+238,neutral,cautionary,yes,"rhetorical question, anecdote","glittering generalities, bandwagon",false dichotomy
+239,neutral,informative,no,"authority appeal, contextualization","selective evidence, appeal to uncertainty",appeal to ignorance
+240,neutral,informative,no,"appeal to authority, exemplification, contrast","fearmongering, cherry-picking, misleading use of facts",hasty generalization
+241,neutral,measured,yes,"contrast, appeal to logic","cherry-picking, misleading statistics",overgeneralization
+242,negative,alarming,no,"exaggeration, fear appeal, demonization","card stacking, name-calling, appeal to fear",hasty generalization
+243,negative,critical,yes,"repetition, appeal to authority, cause and effect","scapegoating, fearmongering, euphemism",post hoc ergo propter hoc
+244,neutral,informative,no,"appeal to authority, persuasive language, contrasting definitions","emotional appeal, glittering generalities",hasty generalization
+245,negative,critical,no,"metaphor, contrast","appeal to emotion, selective omission",hasty generalization
+246,negative,cautionary,yes,"generalization, appeal to authority, contrast","fear-mongering, cherry-picking, scare tactics","['causal fallacy', 'hasty generalization']"
+247,negative,critical,no,"hyperbole, anecdote, pathos","loaded language, scare tactics, cherry-picking","['hasty generalization', 'false dilemma']"
+248,neutral,informative,yes,"anecdotal evidence, hyperbole, contrast","bandwagon, oversimplification, misinformation",generalization
+249,negative,defensive,yes,"hyperbole, denial, appeal to authority","ad hominem, false dichotomy",straw man
+250,negative,critical,yes,"appeal to authority, contradictory statements, temporal reference","cherry-picking data, fear inducement, slanting",non sequitur
+251,negative,alarmist,yes,"statistical evidence, quoting","fearmongering, ad hominem",['red herring']
+252,negative,optimistic,yes,"hyperbole, conditional statement, appeal to authority","appeal to emotion, card stacking, fearmongering","['false dichotomy', 'cherry picking']"
+253,neutral,informative,no,"comparison, appeal to authority, anecdote","card stacking, cherry picking, demonization","['hasty generalization', 'post hoc']"
+254,positive,optimistic and reassuring,yes,"statistical evidence, appeal to emotion, comparison","bandwagon, testimonial",cherry picking
+255,negative,alarmist,no,"comparative statement, appeal to authority, use of statistics","fear mongering, selective omission, contrast",hasty generalization
+256,neutral,critical,yes,"antithesis, assertion","emotional appeal, simplification",hasty generalization
+257,negative,critical,no,"use of specific numbers, temporal reference, contrast","emotional appeal, misleading statistics, appeal to fear",hasty generalization
+258,negative,critical,yes,"comparison, anecdotal evidence, appeal to authority","cherry-picking, misleading statistics",false equivalence
+259,neutral,critical,yes,"quoting, hyperbole","appeal to authority, omission",cherry-picking
+260,negative,critical,no,"contrast, repetition, appeal to emotion","fear, appeal to authority, plain folks","['false dichotomy', 'overgeneralization']"
+261,negative,accusatory,yes,"framing, appeal to emotion, quoting, dichotomy","ad hominem, demonization, appeal to authority",straw man
+262,negative,reflective,yes,"appeal to ethos, antithesis, quoting","selective omission, loaded language",appeal to consequences
+263,neutral,informative,yes,"statistics, amplification","fear-mongering, omission",hasty generalization
+264,negative,alarmist,yes,"hyperbole, imagery, anaphora","fearmongering, scapegoating, selective omission","['hasty generalization', 'false dilemma']"
+265,negative,alarmist,yes,"hyperbole, appeal to fear, dichotomy","scare tactics, bandwagon, false dilemma",hasty generalization
+266,positive,enthusiastic,no,"enumeration, anecdote","bandwagon, appeal to authority",no logical errors
+267,neutral,analytical,no,"contrast, irony, formal language","card stacking, labeling",none 
+268,neutral,serious,no,"statistics, appeal to authority, anecdote","fearmongering, bandwagon, scare tactics",hasty generalization
+269,negative,concerned,no,"appeal to economy, estimation, anecdotal evidence","fearmongering, appeal to popularity",hasty generalization
+270,negative,alarming,yes,"appeal to fear, hyperbole, imagery","scare tactics, demonization, cherry-picking","slippery slope, false cause"
+271,negative,critical,no,"hyperbole, euphemism","appeal to fear, ad hominem",straw man
+272,negative,alarmist,yes,"amplification, appeal to authority, concession","cherry-picking, scare tactics, oversimplification",hasty generalization
+273,neutral,defensive,yes,"assertion, repetition, contrast","card stacking, glittering generalities, doubt","['hasty generalization', 'circular reasoning']"
+274,negative,serious,yes,"euphemism, appeal to emotion","scare tactics, false dichotomy",begging the question
+275,negative,cautionary,no,"statistics, contrast, authority","fearmongering, cherry-picking, appeal to emotion",hasty generalization
+276,negative,adversarial,no,"hyperbole, quoting","demonization, emotional appeal",false dichotomy
+277,neutral,objective,no,"appeal to authority, concession, anaphora","bandwagon, fearmongering, testimonial","['hasty generalization', 'post hoc ergo propter hoc']"
+278,negative,skeptical,no,"hypothetical scenario, appeal to authority","fearmongering, selective quoting",slippery slope
+279,positive,defensive,no,"quoting, contrast, exaggeration","ad hominem, appeal to authority, emotional appeal",straw man
+280,negative,cautionary,no,"anecdotal evidence, questioning, contrast","cherry-picking, appeal to fear",hasty generalization
+281,negative,accusatory,yes,"cherry-picking, false dichotomy","fearmongering, appeal to emotion","['hasty generalization', 'post hoc fallacy']"
+282,negative,critical,no,"appeal to authority, loaded language, reinforcement","emotional appeal, anchoring, assertion",ambiguity
+283,negative,misleading,yes,"statistic usage, approximation, contrast","cherry-picking, misleading statistics, appeal to authority","['overgeneralization', 'faulty cause']"
+284,negative,critical,yes,"hyperbole, comparative rhetoric, appeal to authority","omission, appeal to emotion, misleading statistics","['false analogy', 'overgeneralization']"
+285,negative,accusatory,yes,"loaded language, appeal to fear, misleading implications","scare tactics, demonization, straw man",false cause
+286,negative,critical,yes,"appeal to emotion, hyperbole, contrasting information","ad hominem, cherry-picking, fear appeal",hasty generalization
+287,neutral,informative,no,"legal reference, specificity, quoting authority","appeal to legality, connotation, repetition of need",none identified
+288,negative,critical,yes,"hyperbole, euphemism","demonization, misleading context",oversimplification
+289,positive,optimistic,yes,"personal anecdote, comparative analysis, exemplification","cherry picking, bandwagon, appeal to authority",hasty generalization
+290,negative,cautionary,yes,"hedge, factual inaccuracy","selective use of data, appeal to authority",hasty generalization
+291,neutral,defensive,no,"quoting, counterargument, appeal to authority","deflection, cherry-picking",affirming the consequent
+292,positive,informative,yes,"comparative, quantification, exemplification","assertion, bandwagon, fear appeal","['ambiguity', 'hasty generalization']"
+293,negative,critical,yes,"hyperbole, anecdotal evidence, pathos","fearmongering, guilt by association, doomsday scenario",hasty generalization
+294,negative,pessimistic,yes,"conditional statements, loaded language, appeal to authority","fear mongering, misleading interpretations",contradictory statements
+295,negative,cautionary,yes,"rhetorical question, anaphora, allusion","appeal to fear, scapegoating, slippery slope",hasty generalization
+296,neutral,defensive,no,"contrast, quoting testimony","appeal to authority, diminishing responsibility",appeal to emotion
+297,neutral,objective,no,"fact-based assertion, understatement, comparison","appeal to authority, selective reporting",hasty generalization
+298,negative,alarmist,yes,"hyperbole, selective quotation","fearmongering, cherry-picking",hasty generalization
+299,neutral,defensive,yes,"comparative statement, ellipsis, inclusivity","appeal to authority, us vs. them, ambiguity",ambiguity error
+300,positive,triumphant,yes,"exclamation, metaphor, hyperbole","card stacking, false dichotomy, appeal to emotion",hasty generalization
+301,neutral,expository,yes,"use of hyperbole, contrast, appeal to emotion","bandwagon, card stacking, misleading statistics",['cherry picking']
+302,neutral,informative,no,"contrast, hyperbole, anecdote","appeal to authority, emotional appeal",no logical errors
+303,negative,skeptical,yes,"allusion, hypophora, antithesis","appeal to authority, fearmongering, cherry-picking","hasty generalization, post hoc ergo propter hoc"
+304,negative,defensive,yes,"evasion, contrast","testimonial, omission","['hasty generalization', 'cherry-picking']"
+305,positive,cautiously optimistic,no,"statistics, contrast","appeal to hope, expert opinion",no logical fallacy
+306,negative,deterministic,yes,"generalization, appeal to authority","fear, cherry-picking",hasty generalization
+307,positive,confident,yes,"boasting, exclusivity, implicit comparison","card stacking, ad hominem","['ignoring counterevidence', 'overgeneralization']"
+308,neutral,informative/assertive,yes,"enumeratio, inclusive language, urgency","bandwagon, misleading statistics, appeal to authority",hasty generalization
+309,neutral,informative,no,"comparative statement, quoting an authority","cherry-picking, ambiguity",none 
+310,positive,boastful,no,"hyperbole, personal anecdote, inclusive language","testimonial, selective statistics, bandwagon","['post hoc ergo propter hoc', 'cherry-picking']"
+311,neutral,informative,yes,"authority, future projections, quantification","appeal to fear, bandwagon, omission",hasty generalization
+312,negative,accusatory,no,"allegation, loaded language, implicature","scapegoating, fearmongering, generalization",hasty generalization
+313,negative,critical,no,"hyperbole, contrast","fear-based appeal, bandwagon",none 
+314,negative,accusatory,no,"framing, contrast, anecdote","scapegoating, emotional appeal, appeal to consequences",hasty generalization
+315,negative,definitive,yes,"hyperbole, assertion","appeal to authority, false dichotomy",['begging the question']
+316,negative,accusatory,no,"metaphor, hyperbole, pathos","demonization, appeal to emotion, fear inducement",none explicit
+317,positive,optimistic,no,"collaboration, quoting, historical analogy","bandwagon, appeal to authority, fear induction",none 
+318,negative,critical,no,"alliteration, juxtaposition, hyperbole","scare tactics, reductio ad absurdum, bandwagon","['false equivalence', 'hasty generalization']"
+319,negative,alarmist,yes,"hyperbole, list, quoting authority","fearmongering, cherry-picking data, demonization",false cause
+320,negative,alarmist,no,"hyperbole, appeal to authority","fear mongering, selective omission",fallacy of composition
+321,neutral,informative,yes,"quantification, anecdotal evidence, appeal to authority","cherry-picking data, contradiction",oversimplification
+322,neutral,explanatory,yes,"hyperbole, contrast","appeal to emotion, selective omission","['ambiguity', 'misleading statistics']"
+323,positive,assertive,no,"ethos, logos, anaphora","cherry-picking, testimonials, appeal to authority",hasty generalization
+324,positive,informative,yes,"use of statistics, anecdotal evidence, inclusivity","bandwagon, appeal to authority, misleading statistics",hasty generalization
+325,neutral,cautiously optimistic,yes,"assertion, concession","bandwagon, fear-mongering",ambiguity
+326,negative,alarmist,yes,"anecdotal, evidence, emphasis","fear mongering, cherry picking",hasty generalization
+327,positive,informative,no,"hyperbole, imagery, direct address","anecdotal evidence, authority, appeal to emotion",none 
+328,neutral,cautiously optimistic,no,"suggestion, anecdotal evidence, conditional language","appeal to emotion, cherry-picking, fear-mongering",hasty generalization
+329,neutral,analytical,no,"contrast, hyperbole, enumeration","appeal to authority, diminishing contrast",exaggeration
+330,neutral,informative,no,"appeal to authority, repetition, use of statistics","card stacking, testimonial",hasty generalization
+331,neutral,cautiously optimistic,yes,"euphemism, understatement, amplification","tokenism, scare tactics",ambiguity
+332,negative,critical,yes,"hyperbole, contrast","appeal to authority, fearmongering",ad hominem
+333,negative,alarmist,no,"anaphora, rhetorical question, juxtaposition","fear appeal, demonization, scapegoating",straw man
+334,neutral,informative,no,"hyperbole, contrast, appeal to emotion","fear appeal, bandwagon, loaded language",fallacy of composition
+335,neutral,factual,no,"concession, comparison","normalization, minimization",false analogy
+336,negative,accusatory,yes,"ad hominem, appeal to emotion","fear mongering, cherry-picking","['hasty generalization', 'slippery slope']"
+337,negative,critical,yes,"use of authority, anecdotal evidence, quoting a source","appeal to popularity, false authority, emotional appeal",contradiction
+338,negative,critical,yes,"hyperbole, contrast, antithesis","fear-mongering, misleading statistics, lack of context",hasty generalization
+339,positive,nostalgic,no,"anecdote, hyperbole, allusion","emotional appeal, scapegoating",post hoc ergo propter hoc
+340,negative,inquisitive,no,"generalization, contrast, appeal to authority","fear, omission",hasty generalization
+341,negative,critical,no,"hyperbole, direct address, contrast","demonization, appeal to fear, selective omission","post hoc ergo propter hoc, hasty generalization"
+342,negative,serious,no,"comparison, anecdote, appeal to authority","fear appeal, bandwagon",false dilemma
+343,negative,accusatory,no,"hyperbole, anecdotal evidence, loaded language","fear-mongering, ad hominem attack, omission",hasty generalization
+344,negative,critical,no,"hyperbole, allusion, antithesis","fear-mongering, appeal to emotion, testimonial",appeal to probability
+345,positive,optimistic,no,"anecdote, authority","appeal to emotion, bandwagon",hasty generalization
+346,negative,moralistic,no,"appeal to fear, hyperbole","scare tactics, false dilemma",hasty generalization
+347,negative,derisive,yes,"hyperbole, anaphora","fear-mongering, bandwagon",straw man fallacy
+348,negative,critical,no,"appeal to emotion, hyperbole","ad hominem, card stacking",straw man fallacy
+349,negative,accusatory,no,"accusation, chronological backtracking","omission, name-calling",hasty generalization
+350,neutral,informative,no,"precedent, historical reference, anecdotal evidence","appeal to authority, selective evidence",hasty generalization
+351,neutral,cautious,yes,"ambiguity, contrast, hyperbole","cherry-picking, diminishing the opposition",hasty generalization
+352,negative,concerned,no,"statistical evidence, repetition","anecdotal evidence, appeal to fear",ambiguity
+353,negative,critical,yes,"ambiguity, selective quotation","card stacking, fearmongering",hasty generalization
+354,negative,serious,no,"statistics, comparison","appeal to fear, authority appeal",none 
+355,negative,jarring,no,"hyperbole, imagery, pathos","scare tactics, selective omission",false attribution
+356,positive,assertive,no,"consensus building, call to action, imagery","emotional appeal, bandwagon, fear of inaction",appeal to ignorance
+357,negative,dismissive,yes,"oversimplification, imperative language, colloquialism","appeal to simplicity, deceptive framing",hasty generalization
+358,negative,critical,yes,"appeal to emotion, contrasting statements, imagery, ad hominem","transfer, scare tactics, selective omission",hasty generalization
+359,negative,skeptical,yes,"appeal to fear, anecdotal evidence, hyperbole","bandwagon, fear-mongering, disinformation","['hasty generalization', 'appeal to emotion']"
+360,negative,concerned,yes,"general numbers, framing","omission, overgeneralization",cherry-picking
+361,negative,critical,no,"contrasting, anecdote, authority","scare tactics, selective evidence",hasty generalization
+362,negative,critical,no,"hyperbole, selective omission","cherry-picking data, scapegoating",hasty generalization
+363,positive,defensive,no,"anecdote, contrast, concession","cherry-picking, transfer",misleading expert
+364,neutral,informative,yes,"understatement, ambiguity","euphemism, distraction",post hoc ergo propter hoc
+365,positive,celebratory,no,"anecdotal evidence, appeal to authority, hyperbole","bandwagon, glittering generalities, transfer",hasty generalization
+366,neutral,informative,yes,"appeal to emotion, comparative statistics","selective omission, vagueness",false cause
+367,negative,accusatory,no,"quoting, appeal to emotion","demonization, straw man",straw man
+368,negative,critical,yes,"quotation, contrast","euphemism, fear appeal",false dichotomy
+369,neutral,defensive,yes,"euphemism, anecdote, appeal to authority","glittering generalities, card stacking, bandwagon",cherry picking
+370,positive,optimistic,no,"quotation, exaggeration, appeal to authority","card stacking, glossing",none identified
+371,negative,cautionary,no,"conditional statements, appeal to authority, quantification","fear-mongering, cherry-picking, framing",hasty generalization
+372,negative,critical,no,"juxtaposition, appeal to emotion, hyperbole","ad hominem, red herring, demonization",false dichotomy
+373,negative,skeptical,no,"understatement, anecdote, quoting authority","appeal to authority, fear appeal, framing",hasty generalization
+374,negative,critical,no,"anaphora, contrast, appeal to authority","card stacking, ad hominem, fear mongering","['hasty generalization', 'false dichotomy']"
+375,neutral,informative,no,"historical reference, causal link, assertion","selective omission, appeal to authority, emphasis on change",no logical fallacy
+376,positive,assertive,no,"comparison, appeal to authority, hyperbole, anecdote","bandwagon, loaded language, ad hominem",false dichotomy
+377,negative,concerned,no,"statistical evidence, comparative analysis, appeal to authority","emotional appeal, fear tactics, selective omission",hasty generalization
+378,neutral,informative,yes,"quoting, temporal reference, denial","testimonials, transfer, card stacking",shifting the burden of proof
+379,negative,critical,yes,"exaggeration, using statistics","cherry-picking, doubt creation",faulty generalization
+380,negative,critical,yes,"contrast, amplification, apostrophe","bandwagon, fear appeal, loaded language",false dilemma
+381,negative,dismissive,yes,"ad hominem, appeal to authority","dichotomy, selective omission",straw man
+382,positive,assertive,yes,"hyperbole, appeal to authority, historical reference","bandwagon, cherry-picking, fear appeal","['false dilemma', 'ambiguity']"
+383,negative,concerned,no,"appeal to emotion, anecdotal evidence","simplification, emotionally charged language",hasty generalization
+384,negative,critical,no,"anecdote, antithesis, direct address","appeal to emotion, false dilemma",hasty generalization
+385,neutral,informative,yes,"antithesis, quoting authority","fear appeal, card stacking",hasty generalization
+386,negative,accusatory,no,"ad hominem, loaded language, implying corruption","scare tactics, selective omission, testimonial",hasty generalization
+387,negative,alarmist,yes,"anecdote, hyperbole, appeal to emotion","scare tactics, selective omission",false dichotomy
+388,negative,critical,no,"exaggeration, anecdote, contrast","fear-mongering, appeal to authority, denial",none identified
+389,neutral,skeptical,yes,"anecdotal evidence, shift of responsibility","glittering generalities, card stacking",hasty generalization
+390,neutral,analytical,no,"anecdotal evidence, threshold argument, direct address","bandwagon, false dichotomy, fear-mongering",oversimplification
+391,negative,informative,no,"statistics, quoting authority","appeal to emotion, fear-mongering",no logical fallacy
+392,negative,critical,no,"simile, comparison, anecdote","appeal to emotion, testimonial, demonization",false analogy
+393,negative,accusatory,no,"appeal to emotion, anecdotal evidence","demonization, half-truths",oversimplification
+394,neutral,formal,yes,"appeal to authority, repetition","assertion, framing",hasty generalization
+395,positive,supportive,no,"appeal to authority, inclusive language","testimonials, bandwagon effect","['false dilemma', 'hasty generalization']"
+396,neutral,informative,no,"comparison, anecdote, appeal to authority","cherry-picking, fear-mongering, false dichotomy",['hasty generalization']
+397,negative,critical,no,"appeal to authority, conditional statement, contrast","fearmongering, selective omission, appeal to emotion",false dilemma
+398,neutral,cautious optimism,yes,"appeal to authority, hyperbole, imagery","bandwagon, fearmongering",fallacy of composition
+399,positive,optimistic,no,"repetition, anecdote, statistics","card stacking, glittering generalities, fear appeal",hasty generalization
+400,negative,alarming,yes,"emphasis, personalization, contrast","fearmongering, scapegoating, cherry-picking",hasty generalization
+401,negative,critical,yes,"euphemism, appeal to credibility, contrast","cherry-picking, whataboutism",commonsense error
+402,neutral,analytical,yes,"understatement, temporal limitation","cherry-picking, appeal to authority","hasty generalization, fallacy of exclusion"
+403,positive,engaged and assertive,no,"hyperbole, enumeration, colloquialism","appeal to authority, emotion appeal",none 
+404,negative,alarmist,yes,"hyperbole, contrasting statements, statistical evidence","fearmongering, appeal to authority, selective omission",misleading statistics
+405,neutral,defensive,yes,"denial, anecdote","scare tactics, overgeneralization",circular reasoning
+406,negative,defensive,yes,"indirection, contrast, amplification","demonization, cherry-picking, fear-mongering",oversimplification
+407,negative,defensive,yes,"use of quotation, appeal to authority, contrast","cherry-picking, fear-mongering, denialism",confirmation bias
+408,negative,accusatory,yes,"ad hominem, appeal to emotion, dichotomy","name-calling, cherry-picking, fearmongering","straw man, hasty generalization"
+409,negative,defensive,yes,"hyperbole, enumeration, anecdote","bandwagon, fearmongering",overgeneralization
+410,neutral,informative,yes,"contrast, understatement, appeal to reason","card stacking, oversimplification, fear-mongering","false dilemma, hasty generalization"
+411,negative,concerned,yes,"appeal to emotion, statistics, cause and effect","fear appeal, bandwagon, reductio ad absurdum",no true scotsman
+412,negative,alarmist,yes,"hyperbole, anaphora","fearmongering, cherry picking","['overgeneralization', 'false cause']"
+413,neutral,formal/informative,no,"clarification, contrast","fearmongering, assertion",no error
+414,neutral,informative,yes,"historical reference, contrast","selective omission, historical framing",oversimplification
+415,negative,defensive,yes,"repetition, contrast, imagery","bandwagon, cherry-picking, fear appeal",faulty generalization
+416,negative,critical,yes,"hyperbole, anecdote","cherry-picking, labeling",overgeneralization
+417,negative,critical,yes,"ambiguity, appeal to authority","demonization, selective omission",hasty generalization
+418,neutral,analytical,yes,"statistical evidence, causal claims, contrast","cherry picking, fear-mongering, appeals to authority","['post hoc', 'overgeneralization']"
+419,negative,critical,yes,"comparison, rhetorical question","appeal to emotion, assertion",hasty generalization
+420,positive,optimistic,no,"anaphora, euphemism","appeal to emotion, bandwagon",ambiguity
+421,negative,dismissive,no,"exaggeration, oversimplification, appeal to emotion","cherry-picking, bandwagon",hasty generalization
+422,negative,accusatory,yes,"apostrophe, enumeration, contrast","scapegoating, selective omission",hasty generalization
+423,negative,cautious,yes,"understatement, contrast","selective quotation, appeal to authority",ambiguity
+424,negative,alarmist,no,"metaphor, imagery, hyperbole","fearmongering, us vs. them, scapegoating",hasty generalization
+425,neutral,factual,no,"historical, context, comparison, anaphora","cherry-picking, scare tactics",hasty generalization
+426,negative,critical,no,"hyperbole, juxtaposition","cherry-picking, appeal to fear",hasty generalization
+427,negative,serious and urgent,no,"appeal to fear, ad hominem, anaphora","demonization, cherry picking, fearmongering",hasty generalization
+428,negative,confrontational,no,"hyperbole, quoting authority","demonization, fearmongering",straw man
+429,positive,boastful,yes,"hyperbole, comparative statement, emotive language","bandwagon, cherry-picking, fear appeal",false attribution
+430,negative,cynical,no,"hyperbole, imagery, antithesis","appeal to emotion, bandwagon, fear mongering",appeal to consequences
+431,neutral,objective,no,"appeal to authority, contrast, concession","misleading impressions, cherry-picking",['hasty generalization']
+432,neutral,informative,yes,"anaphora, euphemism","bandwagon, fear appeal",ambiguity
+433,negative,alarmist,yes,"comparison, hyperbole, appeal to emotion","fear mongering, selective evidence","hasty generalization, lack of verification"
+434,negative,critical,no,"loaded language, anecdotal evidence","name-calling, demonization",hasty generalization
+435,negative,concerned,yes,"fear appeal, anecdotal evidence, slippery slope","demonization, emotional appeal, testimonial",appeal to emotion
+436,negative,critical,yes,"contrast, statistics, appeal to authority","cherry-picking, fear-mongering",['hasty generalization']
+437,neutral,informative,yes,"anecdote, appeal to authority","bandwagon, testimonial",hasty generalization
+438,positive,supportive,no,"quantification, appeal to authority, inclusive language","card stacking, loaded language",hasty generalization
+439,negative,skeptical,yes,"ad hominem attack, loaded language, contrasting evidence","demonization, card stacking",false dichotomy
+440,neutral,factual,yes,"statistics, causal language","testimonials, selective omission",oversimplification
+441,neutral,informative,yes,"comparative statement, specificity","selective reporting, contextualization",fallacy of hasty generalization
+442,negative,serious,no,"specificity, direct address, causality","appeal to fear, selective storytelling, emotional appeal",hasty generalization
+443,neutral,assertive,no,"repetition, contrast","appeal to authenticity, undermining opponents",hasty generalization
+444,neutral,critical,yes,"contrast, appeal to emotion, anecdotal evidence","oversimplification, demonization, selective reporting",hasty generalization
+445,negative,accusatory,yes,"contrast, hyperbole, leading question","fear-mongering, simplification, demonization",oversimplification
+446,negative,critical,no,"comparative analysis, statistical evidence, appeal to authority","fear-mongering, bandwagon, name-calling",hasty generalization
+447,negative,alarmist,yes,"appeal to emotion, alerting, anecdotal","fear-mongering, bandwagon, name-calling","['false dilemma', 'hasty generalization']"
+448,negative,concerned,yes,"appeal to emotion, repetition, hyperbole","fear-mongering, scare quotes, bandwagon","['hasty generalization', 'false dilemma']"
+449,neutral,skeptical,yes,"rhetorical, question, irony, contrast","glittering, generalities, bandwagon, cherry picking",hasty generalization
+450,neutral,informative,no,"statistical evidence, clarification","appeal to reason, common knowledge",hasty generalization
+451,neutral,analytical,yes,"quoting, contrast, hyperbole","selective omission, appeal to authority, bandwagon",hasty generalization
+452,negative,serious,no,"comparison, hyperbole, statistics","fear mongering, appeal to emotion, selective evidence","['false dichotomy', 'overgeneralization']"
+453,positive,defensive,yes,"repetition, contradiction, appeal to authority","selective omission, bandwagon, assertion","['hasty generalization', 'false dichotomy']"
+454,neutral,assertive,no,"appeal to authority, emphasizing importance, temporal context","bandwagon, fear appeal, testimonial",begging the question
+455,neutral,descriptive,yes,"quoting authority, conditional language","appeal to emotion, misleading frame",hasty generalization
+456,negative,accusatory,no,"hyperbole, allusion","fear-mongering, misrepresentation",strawman
+457,neutral,cautionary,yes,"appeal to authority, statistics, anecdotal evidence","bandwagon, fear, emotional appeal","['generalization', 'ambiguity']"
+458,neutral,optimistic,yes,"hyperbole, euphemism","misleading statistics, appeal to authority",overgeneralization
+459,neutral,narrative,yes,"metaphor, juxtaposition, hyperbole","appeal to emotion, ad hominem, false dilemma","['slippery slope', 'hasty generalization']"
+460,negative,critical,no,"anaphora, asyndeton, contrast","selective omission, assertion, card stacking",hasty generalization
+461,negative,critical,yes,"allusion, comparison, juxtaposition","loaded language, selective omission",['hasty generalization']
+462,negative,accusatory,yes,"accusatory language, enumeratio, emotive language","ad hominem, fearmongering, loaded language",hasty generalization
+463,negative,accusatory,yes,"metaphor, hyperbole, personification","scapegoating, fearmongering, strawman argument","['hasty generalization', 'false dilemma']"
+464,positive,optimistic,no,"comparison, statistics, quoting authority","appeal to reason, selective omission, emphasis on positive change",hasty generalization
+465,neutral,informative,yes,"statistical evidence, contrast, direct quotation","appeal to emotion, selective omission, use of credible sources",ambiguity
+466,negative,critical,yes,"appeal to emotion, comparison","fearmongering, selective storytelling",hasty generalization
+467,negative,accusatory,yes,"cherry picking, appeal to emotion, false cause","misleading statistics, sloganeering, scapegoating","['post hoc reasoning', 'hasty generalization']"
+468,neutral,explanatory,no,"precision, appeal to authority, contrast","card stacking, glittering generalities",hasty generalization
+469,neutral,informative,yes,"indirect quotation, hyperbole, appeal to authority","transfer, demonization, card stacking",none 
+470,negative,defensive,yes,"hyperbole, conversational language","appeal to emotion, bandwagon",false dichotomy
+471,negative,reflective,no,"anecdote, appeal to authority, inclusive language","misleading statistics, emotionally charged language",hasty generalization
+472,negative,accusatory,no,"assertion, contrast","emotional appeal, misleading statistics",red herring
+473,negative,accusatory,no,"pathos, hyperbole","demonization, cherry-picking",appeal to emotion
+474,neutral,informative,yes,"comparison, quantification, contrast","selective statistics, appeal to authority",cherry picking
+475,negative,serious,yes,"exaggeration, appeal to emotion, quantitative evidence","card stacking, fear-mongering, glittering generalities","['factual inaccuracy', 'fallacy of composition']"
+476,negative,concerned,yes,"statistic, anecdote, alliteration","appeal to emotion, bandwagon, fear",hasty generalization
+477,negative,cynical,yes,"quantification, contrast, generalization","card stacking, fear appeal, transfer",hasty generalization
+478,neutral,descriptive,yes,"appeal to authority, euphemism","loaded language, testimonial",['hasty generalization']
+479,negative,critical,yes,"contradiction, statistics","appeal to fear, cherry-picking","['hasty generalization', 'false dilemma']"
+480,negative,critical,yes,"comparative analysis, hyperbole, diminutive language","cherry-picking, appeal to emotion, fear-mongering",faulty comparison
+481,negative,critical,yes,"statistical evidence, contrast, appeal to authority","cherry picking, misleading statistics","['hasty generalization', 'bandwagon']"
+482,negative,critical,no,"statistical evidence, comparison, anecdotal reference","cherry-picking, fear appeal","['post hoc', 'oversimplification']"
+483,negative,accusatory,yes,"guilt by association, appeal to authority","demonization, cherry-picking","['hasty generalization', 'false cause']"
+484,neutral,explanatory,yes,"euphemism, parenthesis, antithesis","card stacking, cherry picking, doublespeak",hasty generalization
+485,neutral,expository,no,"statistical evidence, contrast, appeal to authority","card stacking, appeal to emotion, transfer",none 
+486,neutral,pragmatic,yes,"euphemism, concession","testimonials, transfer",ambiguity
+487,negative,accusatory,yes,"allusion, repetition, contrast","ad hominem, scare tactics, bandwagon",hasty generalization
+488,negative,adversarial,yes,"contradiction, quotation, hyperbole","fear-mongering, cherry-picking",false dilemma
+489,negative,skeptical,yes,"hyperbole, pathos, allusion","card stacking, appeal to authority, transfer",false dilemma
+490,neutral,factual,no,"precision, contrast, appeal to authority","card-stacking, assertion, appeal to logic",no logical fallacies identified
+491,neutral,defensive,yes,"assertion, repetition","obfuscation, red herring",false dichotomy
+492,negative,accusatory,yes,"appeal to fear, simplification, overgeneralization","emotional manipulation, demonization, cherry picking","['false cause', 'post hoc ergoprocter hoc']"
+493,neutral,analytical,yes,"repetition, pathos, contrasting statements","selective omission, card stacking, fear appeal",false dichotomy
+494,neutral,optimistic,yes,"hyperbole, cherry picking, appeal to authority","card stacking, vagueness, misleading statistics",hasty generalization
+495,negative,critical,yes,"ambiguity, enumeration, appeal to emotion","cherry-picking, misleading statistics, scare tactics","['hasty generalization', 'straw man']"
+496,negative,alarmist,yes,"assumption, hyperbole, appeal to emotion","fearmongering, scapegoating, omission","['hasty generalization', 'false cause']"
+497,negative,confrontational,no,"hyperbole, appeal to authority, imagery","demonization, bandwagon",false dichotomy
+498,neutral,ambivalent,yes,"antithesis, enumeratio","card stacking, glittering generalities",none 
+499,negative,accusatory,yes,"comparative statement, quoting a authority, ambiguity","appeal to emotion, oversimplification, bandwagon",hasty generalization
+500,neutral,cautiously optimistic,yes,"testimonials, comparative analysis, anecdotal evidence","cherry-picking, bandwagon effect, obfuscation",hasty generalization
+501,negative,critical,yes,"metaphor, appeal to emotion, anecdotal evidence","demonization, scapegoating, fear-mongering",false dilemma
+502,negative,skeptical,no,"framing, rhetorical question, juxtaposition","fear-mongering, selective omission, doubt-inducing",begging the question
+503,negative,critical,yes,"selective quotation, framing, emphasis on opposition","card stacking, name-calling, glittering generalities","['hasty generalization', 'false dichotomy']"
+504,negative,critical,no,"hyperbole, imagery, statistics","appeal to fear, selective omission",hasty generalization
+505,neutral,assertive,yes,"legal authority, appeal to evidence","cherry-picking, false dilemma","['hasty generalization', 'circular reasoning']"
+506,neutral,concerned,yes,"metaphor, hyperbole, anecdote","fear appeal, testimonial, bandwagon",false dilemma
+507,neutral,defensive,yes,"euphemism, denial, selective omission","disinformation, appeal to integrity, red herring",fallacy of ambiguity
+508,negative,cautionary,yes,"quote attribution, anecdotal evidence, contrast","cherry-picking, emotional appeal, fearmongering",hasty generalization
+509,positive,promotional,yes,"superlative, temporal reference","bandwagon, appeal to authority",hasty generalization
+510,negative,informative,yes,"appeal to law, conditional statement, counterargument","fear appeal, misleading statistics",none 
+511,negative,critical,yes,"juxtaposition, loaded language, dichotomy","testimonial, emotional appeal, fear-mongering",post hoc fallacy
+512,negative,alarmist,yes,"exaggeration, appeal to emotion, statistical framing","diminished counter-evidence, name-calling, fear appeal","oversimplification, cherry-picking data"
+513,positive,optimistic,yes,"appeal to progress, use of statistical evidence","cherry-picking, obfuscation",mixed sources
+514,negative,critical,yes,"hyperbole, comparative, appeal to authority","cherry-picking, fear-mongering",hasty generalization
+515,negative,accusatory,yes,"anecdote, loaded language, false dilemma","name-calling, card stacking, fear-mongering",hasty generalization
+516,negative,cautionary,yes,"exclusion, quantification, appeal to authority","cherry-picking, fear appeal, demonization",hasty generalization
+517,negative,serious,no,"hyperbole, appeal to emotion, numerical evidence","fearmongering, bandwagon effect, emotional appeal",overgeneralization
+518,negative,accusatory,yes,"anecdotal evidence, counterargument, appeal to authority","card stacking, misleading emphasis, name-calling",hasty generalization
+519,negative,alarming,yes,"hyperbole, appeal to authority, irony","fearmongering, simplification, bandwagon","['straw man', 'begging the question']"
+520,negative,cautionary,no,"quoting, appeal to authority, imagery","fearmongering, generalization, rhetorical questions",hasty generalization
+521,negative,concerned,yes,"fear appeal, statistics, contrast","adverse consequences, manipulation of emotion, selective use of information",hasty generalization
+522,neutral,defensive,no,"appeal to authority, reframing, analogy","card stacking, glittering generalities, name-calling",hasty generalization
+523,neutral,skeptical,yes,"appeal to authority, hypothetical scenario, contrast","bandwagon, selective omission, emotional appeal",appeal to ignorance
+524,neutral,analytical,yes,"juxtaposition, appeal to reason, anecdotal evidence","selective omission, assertion, emotional appeal","['hasty generalization', 'post hoc fallacy']"
+525,negative,concerned,no,"comparative analysis, hyperbole, appeal to authority","fear-mongering, emotional appeal, statistics","false dichotomy, bandwagon"
+526,negative,assertive,yes,"generalization, exclusion, contrast","over-simplification, scapegoating, cherry-picking","['hasty generalization', 'false dichotomy']"
+527,negative,critique,no,"contrast, hyperbole, emotive language","appeal to emotions, selectivity, testimonial",false dilemma
+528,negative,serious,no,"hyperbole, anaphora, statistics","fear appeal, appeal to authority",appeal to emotion
+529,negative,combative,yes,"appeal to authority, misleading emphasis, anecdotal evidence","card stacking, straw man, emotional appeal","['hasty generalization', 'false dichotomy']"
+530,positive,persuasive,no,"appeal to authority, contrast, inclusive language","bandwagon, fear appeal, testimonials",hasty generalization
+531,neutral,expository,no,"historical reference, contrast","appeal to authority, bandwagon",none 
+532,negative,accusatory,yes,"appeal to emotion, demonization","labeling, misleading information",hasty generalization
+533,negative,alarmist,yes,"hyperbole, euphemism, ambiguity","fear-mongering, misleading statistics, straw man",hasty generalization
+534,neutral,skeptical,yes,"anecdote, concession, juxtaposition","bandwagon, ad hominem, false dichotomy",inconsistency
+535,neutral,cautiously optimistic,no,"metaphor, anecdote, rhetorical question","appeal to authority, alarmism",hasty generalization
+536,positive,optimistic,yes,"appeal to popularity, anecdotal evidence, quantification","cherry-picking, misleading statistics, bandwagon",hasty generalization
+537,neutral,informative,no,"contrast, direct address, generalization","appeal to emotion, exaggeration",no
+538,negative,serious,no,"appeal to authority, comparative statistics, emotional appeal","fearmongering, cherry-picking data",hasty generalization
+539,negative,skeptical,yes,"metaphor, allusion, parallelism","fear-mongering, appeal to authority, black-and-white fallacy",slippery slope
+540,neutral,optimistic,yes,"superlative, quantification","cherry-picking, euphemism",fallacy of incomplete evidence
+541,negative,critical,yes,"metaphor, hyperbole, allusion","appeal to fear, ad hominem, misleading association",straw man fallacy
+542,neutral,analytical,no,"counterargument, appeal to authority, concession","demonization, card stacking, bandwagon","['hasty generalization', 'false dichotomy']"
+543,positive,optimistic,no,"appeal to savings, personal pronoun use, contrast","fear of waste, bandwagon effect",false dilemma
+544,negative,combative,yes,"concession, appeal to reason, dichotomy","loaded language, bandwagon, ad hominem",strawman fallacy
+545,negative,skeptical,yes,"anecdote, hyperbole, appeal to emotion","card stacking, ad hominem, false dilemma",statistical fallacy
+546,negative,critical,yes,"contrast, appeal to authority, historical reference","scapegoating, false dilemma, selective omission",hasty generalization
+547,positive,competitive,yes,"hyperbole, contrast, colloquial language","appeal to emotion, selective omission, positive framing",false dichotomy
+548,negative,critical,yes,"contrast, anaphora, anecdote","card stacking, name-calling, guilt by association","['false dichotomy', 'hasty generalization']"
+549,neutral,optimistic,yes,"hyperbole, anecdotal evidence","bandwagon, fear appeal","['hasty generalization', 'omission of information']"
+550,negative,critical,yes,"hyperbole, anecdote, appeal to emotion","card stacking, fearmongering",hasty generalization
+551,negative,contemptuous,no,"analogy, hyperbole, alliteration","ad hominen, fear-mongering, demonization",straw man
+552,negative,pessimistic,no,"comparative language, emphasis on statistics","fearmongering, selective omission",false dilemma
+553,neutral,satirical,no,"allusion, pathos, anecdote","bandwagon, ad hominem, testimonial",fallacy of composition
+554,neutral,concerned,no,"historical reference, contrast, anecdotal evidence","appeal to authority, selective omission, fearmongering","['hasty generalization', 'cherry picking']"
+555,neutral,reflective,no,"comparison, anaphora","appeal to authority, bandwagon",hasty generalization
+556,negative,defensive,yes,"anaphora, direct address, contradictory statements","fearmongering, selective omission, emotional appeal",appeal to emotion
+557,negative,cautionary,yes,"hyperbole, inclusive language","selective omission, narrative framing",faulty generalization
+558,neutral,assertive,no,"allusion, anaphora, contrast","bandwagon, fear-mongering, personalization",none
+559,positive,optimistic,no,"hyperbole, temporal reference","appeal to fear, cherry picking",possibility fallacy
+560,negative,critical,no,"appeal to authority, anecdotal evidence, repetition","bandwagon, demonization",hasty generalization
+561,negative,adversarial,no,"appeal to authority, loaded language, implied threat","demonization, bandwagon",ad hominem
+562,negative,aggressive,yes,"anecdote, hyperbole, appeal to emotion","demonization, fear mongering, misleading statistics",fallacy of hasty generalization
+563,neutral,informative,no,"comparison, anecdote","appeal to authority, priming",false dilemma
+564,negative,critical,yes,"hyperbole, appeal to emotion","selective omission, assertion",hasty generalization
+565,negative,alarmist,yes,"appeal to emotion, anecdotal evidence, loaded language","scare tactics, misleading information, ad hominem",hasty generalization
+566,neutral,critical,yes,"ambiguity, appeal to authority, contrast","demonization, fearmongering, cherry-picking",false dichotomy
+567,neutral,informative,yes,"anecdote, emotional appeal, expert opinion","bandwagon, scare tactics, oversimplification","['false dichotomy', 'hasty generalization']"
+568,negative,accusatory,yes,"collective language, loaded language, quantification","oversimplification, scapegoating, fearmongering",hasty generalization
+569,negative,skeptical,yes,"metaphor, hyperbole, contrast","appeal to emotion, framing, credibility",potential red herring
+570,negative,pessimistic,no,"use of statistics, emphasis on deficit, appeal to authority","fearmongering, appeal to consequences","['false dichotomy', 'hasty generalization']"
+571,neutral,informative,no,"statistical evidence, anecdotal evidence, appeal to authority","bandwagon, fear appeal, selective reporting",hasty generalization
+572,negative,critical,no,"refutation, contrast","doubt creation, appeal to emotion",['begging the question']
+573,positive,optimistic,yes,"anaphora, emphasis","bandwagon, transfer",hasty generalization
+574,negative,cautionary,yes,"anecdote, contrast, appeal to emotion","card-stacking, transfer",post hoc ergo propter hoc
+575,neutral,informative,yes,"use of statistics, comparative analysis","cherry-picking, appeal to emotion",assumption error
+576,negative,urgent,no,"hyperbole, comparison","bandwagon, emotive language","['hasty generalization', 'false dilemma']"
+577,neutral,informative,no,"appeal to authority, estimation, inclusive language","fear mongering, appeal to emotion, cherry-picking",hasty generalization
+578,neutral,analytical,yes,"contrast, irony, conditionality","fear appeals, euphemism, appeal to authority","['ambiguity', 'post hoc']"
+579,negative,critical,no,"hedge, time reference","appeal to tradition, selective emphasis",no logical errors
+580,neutral,balanced,yes,"nuanced argumentation, contrast, appeal to authority","cherry-picking, spin, ambiguity","['false dichotomy', 'ambiguity fallacy']"
+581,negative,accusatory,yes,"allegation, appeal to emotion, false dichotomy","scapegoating, fear appeal, misleading statistics",hasty generalization
+582,negative,critical,no,"hyperbole, analogy","assertion, appeal to authority, comparison",false equivalence
+583,negative,critical,yes,"hyperbole, anecdote, contrast","card stacking, association, name-calling","['cherry picking', 'false cause']"
+584,negative,aggressive and accusatory,yes,"use of statistics, ad hominem, loaded language","fear-mongering, scapegoating, demonization","['hasty generalization', 'post hoc ergo propter hoc']"
+585,negative,indignant,yes,"hyperbole, ellipsis, shocking statement","scare tactics, emotional appeal, oversimplification","['causal fallacy', 'hasty generalization']"
+586,negative,critical,yes,"euphemism, contradiction","fearmongering, cherry-picking",appeal to fear
+587,negative,alarmist,yes,"contrast, appeal to emotion, misleading implication","fearmongering, selective omission, loaded language","['false dilemma', 'appeal to fear']"
+588,negative,critical,yes,"hyperbole, appeal to emotion, repetition","scapegoating, fearmongering, selective omission",overgeneralization
+589,neutral,defensive,yes,"appeal to ethos, contradictory statements, anecdotal evidence","glittering generalities, card stacking",appeal to contradiction
+590,negative,assertive,yes,"repetition, inclusive language","ad hominem, appeal to authority","['appeal to consequences', 'overgeneralization']"
+591,negative,accusatory,yes,"hyperbole, appeal to authority, contradictory statements","selective omission, emotional appeal",cherry picking
+592,neutral,informative,no,"enumeratio, antithesis, amplification","bandwagon, appeal to authority, euphemism",no logical fallacy
+593,positive,prideful,no,"appeal to authority, parallel structure","glittering generalities, card stacking",hasty generalization
+594,negative,critical,yes,"straw man argument, ad hominem, appeal to emotion","selective omission, fearmongering, demonization",hasty generalization
+595,negative,cynical,yes,"hyperbole, appeal to emotion","simplification, demonization",false dilemma
+596,negative,critical,no,"anecdote, repetition","scapegoating, emotional appeal",hasty generalization
+597,negative,accusatory,yes,"hyperbole, appeal to responsibility","scapegoating, selective omission",red herring
+598,negative,critical,yes,"contrast, quotations, enumeratio","demonization, appeal to authority, positioning",strawman
+599,negative,critical,no,"quote, causation, appeal to emotion","demonization, selective omission",post hoc ergo propter hoc
+600,negative,accusatory,yes,"hyperbole, demonization, scapegoating","fearmongering, cherry-picking, outright fallacy","['strawman fallacy', 'slippery slope']"
+601,negative,accusatory,no,"anecdote, loaded language","transfer, fear-mongering",hasty generalization
+602,negative,critical,yes,"anecdotal evidence, appeal to authority, antithesis","cherry-picking, fearmongering, ad hominem",straw man
+603,neutral,informative,yes,"statistics, repetition, appeal to authority","fearmongering, bandwagon, loaded language",hasty generalization
+604,negative,pessimistic,yes,"anecdote, contrast","cherry-picking, emotional appeal",contradiction
+605,negative,critical,yes,"appeal to emotion, repetition, anecdotal evidence","fear-mongering, appeal to authority",hasty generalization
+606,positive,optimistic,yes,"hyperbole, appeal to emotion, repetition","card stacking, glittering generalities",hasty generalization
+607,negative,critical,no,"exaggeration, appeal to authority, comparative evidence","fear, demonization, bandwagon",hasty generalization
+608,neutral,assertive,no,"anaphora, hedging, anecdotal evidence","fear-mongering, bandwagon",no fallacy
+609,negative,accusatory,yes,"quoting, dichotomy, repetition","straw man, ad hominem, fear-mongering","['false dichotomy', 'overgeneralization']"
+610,neutral,informative,no,"quoting authority, statistical representation","bandwagon, simplification",no logical errors
+611,neutral,explanatory,yes,"misleading implication, assertion","omission, appeal to authority",hasty generalization
+612,positive,assertive,no,"comparative statement, quoting authority","cherry-picking data, appeal to authority",none 
+613,negative,alarmist,yes,"anecdote, hyperbole","fear appeal, bandwagon","['hasty generalization', 'false cause']"
+614,positive,optimistic,no,"anecdote, contrast","emotional appeal, selective authority",hasty generalization
+615,neutral,analytical,no,"value judgement, conditional statements, contrast","emotional appeal, selective omission, scare tactics",hasty generalization
+616,neutral,assertive,yes,"apostrophe, antithesis, repetition","ad hominem, fear appeal, card stacking",false dichotomy
+617,neutral,defensive,no,"understatements, anecdotal evidence","appeal to authority, card stacking",straw man
+618,negative,critical,yes,"specificity, either/or argument","appeal to fear, assertion",false dichotomy
+619,negative,critical,yes,"assertion, comparative language","emotional appeal, discrediting",contradiction
+620,neutral,factual,no,"appeal to authority, repetition","card stacking, bandwagon",hasty generalization
+621,neutral,informative,no,"hyperbole, anecdote, pun","appeal to emotion, selective evidence",false dichotomy
+622,negative,assertive,yes,"authority appeal, hyperbole, generalization","card stacking, loaded language, fear mongering",false sense of authority
+623,neutral,informative,yes,"quoting, statistical reference, comparison","transfer, card stacking","['contextual misinterpretation', 'hasty generalization']"
+624,negative,serious,yes,"anaphora, juxtaposition, hyperbole","fear, scapegoating, selection bias",hasty generalization
+625,neutral,conversational,yes,"comparative rhetoric, anecdotal evidence, antithesis","appeal to national pride, bandwagon appeal, normalization",false equivalence
+626,negative,critical,yes,"selective use of statistics, ambiguity","fear uncertainty and doubt, name-calling",hasty generalization
+627,negative,alarmist,yes,"loaded language, appeal to fear, quoting authority","demonization, simplification, fear mongering",hasty generalization
+628,neutral,informative,no,"quoting, contrast","appeal to authority, selective omission",none 
+629,negative,alarmist,no,"statistics, comparative statement, specificity","fear-inducing, selective omission, appeal to authority",hasty generalization
+630,negative,serious,yes,"statistical evidence, appeal to fear","card stacking, decontextualization",hasty generalization
+631,neutral,defensive,yes,"aposiopesis, antithesis, quoting","appeal to authority, false dichotomy",non sequitur
+632,negative,cautious optimism,yes,"comparison, contrast, analogy","selective omission, card stacking, emotional appeal","['false dichotomy', 'hasty generalization']"
+633,neutral,cautionary,yes,"hyperbole, anecdote, irony","fearmongering, testimonial, appeal to authority",ambiguity
+634,negative,alarmist tone,yes,"appeal to fear, anecdotal evidence, contrast","ad hominem, false dichotomy, misleading statistics",hasty generalization
+635,neutral,pragmatic,no,"hyperbole, contrast, appeal to logic (logos)","fear appeal, bandwagon, reframing",no logical fallacy
+636,negative,concerned,yes,"framing, statistical emphasis, contrast","selective omission, appeal to fear, anecdotal evidence",hasty generalization
+637,neutral,informative,yes,"anecdote, appeal to emotion, contrast","card stacking, fearmongering",ambiguity
+638,negative,accusatory,yes,"hyperbole, appeal to fear, ad hominem","cherry picking, bandwagon, scare tactics",hasty generalization
+639,neutral,objective,no,"appeal to authority, contrast","cherry-picking, fearmongering",ambiguity
+640,negative,persuasive,yes,"conditional statement, contrast, appeal to authority","false dilemma, juxtaposition, fear appeal",hasty generalization
+641,positive,optimistic,no,"comparison, historical context, appeal to community","bandwagon, emotional appeal, appeal to authority",hasty generalization
+642,negative,cautionary,yes,"appeal to authority, simplification, hyperbole","scapegoating, bandwagon, fearmongering",hasty generalization
+643,negative,critical,yes,"anecdote, repetition","ad hominem, omission",straw man
+644,neutral,analytical,yes,"counterargument, quoting, contrasting","bandwagon, fear appeal, cherry-picking",straw man fallacy
+645,negative,defensive,yes,"exaggeration, superlative language, absolute statements","misleading statistics, cherry picking, appeal to authority","['fallacy of ambiguity', 'hasty generalization']"
+646,neutral,analytical,yes,"anecdote, appeal to authority, contrast","bandwagon, fearmongering, overgeneralization","['hasty generalization', 'false dilemma']"
+647,negative,accusatory,yes,"metaphor, appeal to fear, dichotomy","misleading information, ad hominem, scare tactics",false claim
+648,negative,alarming,yes,"anecdote, hyperbole, pathos","scare tactics, cherry-picking",['hasty generalization']
+649,negative,critical,yes,"use of numbers, contrast, appeal to emotion","selective storytelling, name-calling, reductio ad absurdum","['hasty generalization', 'appeal to authority']"
+650,negative,concerned,yes,"extrapolation, appeal to authority, quoting","fear mongering, selective use of facts, deflection",begging the question
+651,negative,serious,yes,"estimation, causal language, authority reference","fear-mongering, appeal to authority",appeal to emotion
+652,negative,critical,yes,"ambiguity, straw man, contrast","fearmongering, misleading appeals, ad hominem","['hasty generalization', 'false dichotomy']"
+653,positive,optimistic,yes,"amplification, appeal to authority, specificity","euphemism, bandwagon",hasty generalization
+654,negative,accusatory,yes,"cause and effect, appeal to authority","scare tactics, selective omission",post hoc fallacy
+655,positive,optimistic,no,"anecdote, metaphor","emotional appeal, progressive framing",none 
+656,negative,somber,no,"statistical evidence, anecdotal evidence, urgency","bandwagon, fearmongering, appeal to emotions",misleading statistics
+657,negative,alarmist,yes,"euphemism, anecdote, hyperbole","cherry-picking, fear-mongering, fact manipulation","fallacy of composition, false dilemma"
+658,negative,skeptical,yes,"contrast, hyperbole, implying irony","demonization, simplification, testimonial","['hasty generalization', 'false dichotomy']"
+659,negative,serious,yes,"authority, hyperbole, cause and effect","bandwagon, fearmongering, cherry-picking","post hoc ergo propter hoc, hasty generalization"
+660,negative,critical,yes,"anecdotal evidence, repetition, vagueness","fearmongering, demonization, selective omission",strawman fallacy
+661,negative,accusatory,yes,"appeal to authority, anecdotal evidence","denunciation, transfer",hasty generalization
+662,negative,accusatory,no,"ad hominem, hyperbole, emotional appeal","demonization, fearmongering, false dichotomy","['straw man', 'appeal to emotion']"
+663,neutral,informative,no,"comparison, causal link","cherry-picking, scapegoating",hasty generalization
+664,neutral,explanatory,no,"appeal to authority, euphemism","redirection, minimization",no logical errors
+665,negative,critical,no,"hyperbole, loaded language, imagery","red herring, scare tactics, misleading statistic",straw man
+666,negative,cynical,yes,"repetition, appeal to authority, ambiguity","fearmongering, card stacking, loaded language","post hoc, hasty generalization"
+667,negative,skeptical,yes,"inconsistency, direct quotation, appeal to memory","cherry-picking, ad hominem",reductio ad absurdum
+668,neutral,contradictory,yes,"quoting, emphasis","cherry-picking, misleading framing",false cause
+669,negative,critical,yes,"exaggeration, appeal to comparison","false dilemma, emotional appeal",false cause
+670,neutral,cautious,yes,"commitment, conditional statement","selective omission, appeal to authority",ambiguity
+671,neutral,cautious,yes,"quotations, contrast, anecdote","card stacking, name calling, fearmongering",ambiguity
+672,negative,critical,yes,"metaphor, hyperbole, antithesis","appeal to fear, card stacking, bandwagon","['post hoc ergo propter hoc', 'oversimplification']"
+673,positive,assertive,no,"authority appeal, repetition, certainty language","bandwagon, glittering generalities, fear appeal",no logical fallacy
+674,negative,critical,yes,"anecdote, contrast, appeal to authority","stirring emotions, demonization",false dilemma
+675,positive,supportive,no,"quotation, hyperbole, anecdote, appeal to authority","card stacking, name-calling, fear mongering",false dichotomy
+676,positive,optimistic,no,"anecdotal reference, appeal to authority, contrast","transfer, card stacking, emotional appeal",ambiguity
+677,negative,critical,yes,"anecdotal evidence, contrast, hyperbole","card stacking, name calling, fear appeal","['post hoc ergo propter hoc', 'oversimplification']"
+678,negative,alarmist,yes,"repetition, hyperbole","bandwagon, fearmongering",overgeneralization
+679,neutral,assertive,yes,"appeal to authority, inclusive language, emphasis","fear appeal, testimonial, oversimplification","['hasty generalization', 'post hoc']"
+680,neutral,informative,yes,"historical reference, generalization, contrast","appeal to authority, selective omission, emotional appeal",hasty generalization
+681,positive,optimistic,no,"anecdote, statistics, appeal to authority, contrast","glittering generalities, bandwagon, transfer",appeal to emotion
+682,negative,skeptical,yes,"hyperbole, comparative analysis, diminution","appeal to fear, cherry-picking, slippery slope",hasty generalization
+683,neutral,cautiously optimistic,yes,"comparative language, vague quantification","omission, euphemism","['hasty generalization', 'ambiguity']"
+684,negative,informative,no,"statistical evidence, quoting authority, clarification","appeal to authority, fear appeal, selective reporting",confirmation bias
+685,neutral,descriptive,yes,"appeal to youth, temporal framing","bandwagon, assertion",hasty generalization
+686,positive,defensive,no,"hyperbole, comparative rhetoric, historical allusion","glittering generalities, testimonial, card stacking",hasty generalization
+687,neutral,skeptical,yes,"anecdote, hyperbole, appeal to ignorance","ad hominem, bandwagon, fearmongering","['straw man', 'false dichotomy']"
+688,negative,pessimistic,yes,"appeal to fear, generalization","demonization, misleading statistics",hasty generalization
+689,positive,assertive,yes,"hyperbole, comparison, appeal to patriotism","selective reporting, cherry-picking data, foot-in-the-door technique",oversimplification
+690,negative,concerned,yes,"comparison, appeal to statistics, anecdotal evidence","cherry-picking, scare tactics",overgeneralization
+691,negative,cautionary,yes,"assertion, anecdote, appeal to facts","bandwagon, fear, card stacking",hasty generalization
+692,negative,satirical,yes,"hyperbole, rhetorical question, sarcasm, anaphora","fear mongering, scapegoating, false dilemma",hasty generalization
+693,negative,alarmist,yes,"anecdotal evidence, slippery slope, overgeneralization","fear mongering, cherry picking",['post hoc ergo propter hoc']
+694,neutral,cautious,no,"evasion, ambiguity","doubt, appeal to authority",ad hominem
+695,negative,critical,yes,"analogy, appeal to authority, contrast","fear, blame, selective omission","hasty generalization, false dilemma"
+696,neutral,cautionary,yes,"anecdote, allusion, counterargument","bandwagon, scare tactics, expert testimony",false dichotomy
+697,negative,critical,yes,"quoting, contrast, euphemism","bandwagon, fear-mongering, cherry-picking","['hasty generalization', 'slippery slope']"
+698,negative,critical,yes,"historical reference, comparison, appeal to authority","selective omission, appeal to emotion, red herring",hasty generalization
+699,neutral,analytical,yes,"contradiction, appeal to authority, temporal framing","cherry picking, fear-mongering, ad hominem implication",false dilemma
+700,positive,optimistic,yes,"historical reference, repetition, assurance","bandwagon, appeal to fear",['post hoc']
+701,neutral,critical,yes,"contrasting, hyperbole","cherry-picking, false dichotomy",misleading statistics
+702,negative,critical,yes,"quoting, contextualization, contrast","reductio ad absurdum, out of context citation",straw man
+703,neutral,informative,yes,"appeal to authority, specificity","selective omission, cherry picking",ambiguity
+704,negative,concerned,yes,"hyperbole, comparative statement","fear appeal, scare tactics",hasty generalization
+705,positive,assertive,no,"assertion, appeal to authority, use of specificity","fear appeal, cherry-picking, bandwagon",none identified
+706,negative,critical,yes,"statistics, comparison, emotional appeal (pathos)","appeal to fear, misleading statistics, scapegoating",cherry picking
+707,neutral,critical,yes,"anecdote, hyperbole","cherry-picking, appeal to authority",hasty generalization
+708,neutral,informative,no,"claim, statistics, appeal to authority","fear-mongering, bandwagon, cherry-picking",hasty generalization
+709,positive,optimistic,no,"contrast, statistics, emphasis on change","appeal to authority, fear-mongering, selective omission",hasty generalization
+710,neutral,informative,no,"contrast, appeal to authority","name-calling, card-stacking","['ambiguity', 'false dichotomy']"
+711,negative,critical,yes,"allusion, irony","disinformation, citing authority",false attribution
+712,positive,optimistic,no,"appeal to authority, statistical evidence, temporal comparison","cherry-picking, fear-mongering, simplification",hasty generalization
+713,negative,criticism,no,"scapegoating, appeal to authority, emotional appeal","fear-mongering, red herring",strawman fallacy
+714,negative,critical,no,"contrast, appeal to emotion, quoting statistics","card stacking, fear tactics, testimonial",hasty generalization
+715,negative,critical,no,"statistics, contrast, attribution","appeal to fear, transfer, bandwagon","['hasty generalization', 'post hoc']"
+716,positive,optimistic,no,"hyperbole, contrast","appeal to authority, cherry-picking data",hasty generalization
+717,neutral,expository,no,"analogy, anecdote, juxtaposition","fear appeal, appeal to authority, false dilemma","['hasty generalization', 'post hoc ergo propter hoc']"
+718,positive,optimistic,no,"contrast, causal relationship, chronological structure","selective omission, vague statements, appeal to progress",cherry picking
+719,negative,critical,yes,"hyperbole, appeal to authority, quoting statistics","cherry-picking, fear-mongering, appeal to emotions",hasty generalization
+720,neutral,assertive,yes,"anecdote, contrast, quoting opponent","selective statistics, distraction, appeal to authority",cherry picking
+721,negative,accusatory,yes,"accusation, pathos, ambiguity","demonization, selective quoting, fearmongering","['hasty generalization', 'ad hominem']"
+722,neutral,informative,no,"anecdote, contrast, temporal reference","appeal to tradition, bandwagon, appeal to emotion",none 
+723,negative,accusatory,yes,"appeal to authority, ad hominem, emotive language","transfer, card stacking, bandwagon","['post hoc ergo propter hoc', 'hasty generalization']"
+724,neutral,formal,no,"appeal to authority, framing","selective omission, appeal to fear",hasty generalization
+725,negative,alarmist,no,"hyperbole, pathos, anecdote","card stacking, demonization, fearmongering","hasty generalization, false dichotomy"
+726,negative,critical,no,"appeal to authority, comparison","cherry picking, emotional appeal",strawman
+727,neutral,descriptive,no,"simile, allusion","transfer, bandwagon",hasty generalization
+728,neutral,cynical,yes,"hyperbole, irony, anecdote","reductio ad absurdum, ad hominem, false dilemma","['hasty generalization', 'non sequitur']"
+729,negative,critical,yes,"appeal, to authority, anecdotal, evidence","selective omission, appeal to fear",hasty generalization
+730,neutral,assertive,no,"inclusivity, anaphora, pathos","bandwagon, testimonial, glittering generalities","['hasty generalization', 'appeal to authority']"
+731,neutral,informative,no,"appeal to authority, hyperbole, generalization","bandwagon, fear appeal, data manipulation",hasty generalization
+732,negative,critical,no,"specificity, appeal to emotion, parallelism","fearmongering, dichotomy",hasty generalization
+733,negative,concerned,no,"statistical evidence, appeal to authority, contrast","fearmongering, anecdotal evidence, bandwagon",false cause
+734,negative,accusatory,yes,"ad hominem, appeal to emotion, loaded language","fearmongering, misleading statistics, implicature","hasty generalization, post hoc ergo propter hoc"
+735,positive,assertive,no,"appeal to authority, bandwagon","testimonial, plain folks, emotional appeal",hasty generalization
+736,negative,concerned,yes,"statistics, contrast, urgency","fearmongering, appeal to authority",hasty generalization
+737,positive,assertive,yes,"appeal to authority, causal relationship, historical reference","glittering generalities, fear-mongering",begging the question
+738,neutral,conversational,no,"contrast, anaphora","appeal to emotion, disinformation",straw man fallacy
+739,negative,assertive,yes,"metaphor, hyperbole, parallelism","fearmongering, assertion, appeal to authority","['false dilemma', 'oversimplification']"
+740,negative,critical,no,"appeal to authority, inclusive language","fearmongering, loaded language",hasty generalization
+741,negative,critical,yes,"labeling, appeal to authority","name-calling, fear-mongering",hasty generalization
+742,neutral,informative,yes,"generalization, anecdotal evidence, contrast","scare tactics, bandwagon","['hasty generalization', 'false cause']"
+743,negative,critical,yes,"hyperbole, vague language","fearmongering, appeal to emotion",hasty generalization
+744,negative,alarmist,no,"statistics, comparative analysis, appeal to emotion","cherry-picking, fearmongering","hasty generalization, post hoc"
+745,negative,critical,no,"statistics, quoting, appeal to emotion","simplification, scare tactics, bandwagon",hasty generalization
+746,positive,assertive,no,"comparative analysis, appeal to authority, repetition","bandwagon, testimonial, loaded language",false analogy
+747,neutral,informative,no,"generalization, statistical evidence, causal relationship","appeal to fear, cherry picking",['post hoc ergo propter hoc']
+748,positive,optimistic,no,"statistics, contrast, anecdotal evidence","appeal to authority, selective use of statistics, bandwagon",hasty generalization
+749,negative,critical,yes,"allusion, specificity, contrast","fear-mongering, scapegoating",hasty generalization
+750,negative,critical,no,"hyperbole, appeal to authority","fear-mongering, false dilemma",hasty generalization
+751,negative,critical,no,"assertion, appeal to facts, generalization","fear-mongering, bandwagon","['hasty generalization', 'false causality']"
+752,neutral,factual,yes,"hyperbole, contrast","scapegoating, misleading statistics",cherry-picking
+753,negative,critical,no,"hyperbole, imagery, loaded language","scare tactics, ad hominem, cherry-picking",hasty generalization
+754,neutral,informative,no,"historical reference, quantification, authority citation","appeal to tradition, statistics misuse","['hasty generalization', 'red herring']"
+755,neutral,informative,no,"comparison, statistical evidence, appeal to authority","fearmongering, selective statistics","['hasty generalization', 'post hoc']"
+756,neutral,optimistic,yes,"antithesis, conditional statement","appeal to emotion, bandwagon",straw man
+757,negative,concerned,no,"anecdote, contrast","appeal to emotion, bandwagon",none 
+758,positive,informative,no,"appeal to authority, statistical evidence, contrast","selective reporting, fearmongering",hasty generalization
+759,negative,assertive,yes,"contrast, appeal to emotion, anaphora","card stacking, bandwagon, euphemism",misleading statistics
+760,neutral,analytical,no,"assertion, appeal to authority, contrast","bandwagon, simplification, demonization","['post hoc ergo propter hoc', 'overgeneralization']"
+761,negative,critical,no,"notional contrast, appeal to emotion, implied cause and effect","cherry picking, fearmongering",post hoc ergo propter hoc
+762,negative,critical,yes,"anecdotal evidence, appeal to emotion","card stacking, shifting the burden of proof",false equivalence
+763,negative,cautionary,yes,"appeal to authority, anecdotal evidence","demonization, oversimplification",hasty generalization
+764,negative,alarmist,yes,"fear appeal, appeal to authority, hyperbole","scare tactics, bandwagon, cherry picking",faulty causality
+765,neutral,informative,no,"use of statistics, vagueness","card stacking, glittering generalities","['hasty generalization', 'post hoc reasoning']"
+766,neutral,conversational,no,"comparison, juxtaposition, qualified statement","selective statistics, appeal to authority, diminishing opponent","['hasty generalization', 'cherry picking']"
+767,neutral,optimistic,no,"euphemism, appeal to authority, inclusivity","selective omission, card stacking, testimonial",false dichotomy
+768,negative,critical,no,"anecdotal evidence, appeal to authority, hyperbole","bandwagon, fearmongering, loaded language","hasty generalization, post hoc"
+769,positive,assertive,no,"comparison, contrast, appeal to emotion","selective omission, appeal to authority",hasty generalization
+770,negative,hostile,no,"accusation, appeal to emotion, loaded language","demonization, cherry picking",hasty generalization
+771,neutral,satirical,no,"irony, juxtaposition, anecdote","bandwagon, fear appeals, testimonial",hasty generalization
+772,negative,cautionary,no,"anecdote, allusion","bandwagon, scare tactics",hasty generalization
+773,negative,skeptical,no,"anecdote, allusion","appeal to authority, ad hominem",hasty generalization
+774,negative,critical,no,"appeal to popularity, loaded language, use of statistics","fearmongering, selectivity",straw man
+775,negative,accusatory,yes,"accusation, specificity","fear-mongering, name-calling",hasty generalization
+776,positive,optimistic,no,"appeal to authority, comparison","bandwagon, selective omission",hasty generalization
+777,negative,conversational,no,"anecdote, ellipsis, rhetorical question","appeal to fear, bandwagon, card stacking","['false dilemma', 'hasty generalization']"
+778,negative,cynical,no,"appeal to authority, contrasting opinions, hypophora","misleading information, emotional appeal, loading language",hasty generalization
+779,negative,critical,no,"contrast, cherry-picking","fear appeal, card stacking","['ad hominem', 'false dichotomy']"
+780,neutral,defensive,yes,"evasion, contrast","cherry picking, false cause","oversimplification, post hoc"
+781,negative,accusatory,yes,"framing, appeal to accusation, contrast","demonization, scapegoating, fear-mongering","['red herring', 'post hoc']"
+782,neutral,ironical,yes,"metaphor, hyperbole, allusion","appeal to emotion, demonization, fear mongering",ad hominem
+783,negative,alarmist,yes,"hyperbole, appeal to fear, euphemism","cherry picking, fearmongering",post hoc fallacy
+784,negative,accusatory,yes,"statistical evidence, appeal to authority, anecdotal evidence","fearmongering, name-calling, card-stacking",hasty generalization
+785,negative,critical,yes,"contrast, hyperbole, appeal to emotion","demonization, selective omission","['false dilemma', 'hasty generalization']"
+786,neutral,informative,no,"contrast, specificity, use of statistics","bandwagon, loaded language",hasty generalization
+787,negative,critical,yes,"appeal to authority, anecdotal evidence, counterargument","card stacking, ad hominem","['hasty generalization', 'begging the question']"
+788,positive,optimistic,no,"historical reference, contrast","card stacking, glittering generalities",hasty generalization
+789,negative,critical,no,"anecdotal evidence, contrast, hyperbole","fearmongering, ad hominem, selective omission",['straw man fallacy']
+790,negative,cynical,no,"anaphora, allusion","selective omission, ad hominem",hasty generalization
+791,negative,critical,no,"comparative analysis, appeal to emotion","selective reporting, ad hominem, scare tactics",hasty generalization
+792,neutral,formal,no,"assertion, appeal to authority","false dilemma, weasel words",hasty generalization
+793,neutral,cautionary,yes,"contrast, repetition, appeal to authority","card stacking, glittering generalities",false dilemma
+794,negative,critical,no,"contrast, quotation, historical context","appeal to emotion, cherry-picking data",false dilemma
+795,negative,cautionary,yes,"appeal to authority, statistics, anecdotal evidence","bandwagon, fear-mongering, cherry-picking",hasty generalization
+796,positive,assertive,yes,"statistical evidence, emotional appeal","cherry-picking data, red herring",hasty generalization
+797,neutral,descriptive,no,"statistic, appeal to authority","emotional appeal, selective omission",hasty generalization
+798,neutral,informative,yes,"statistic usage, appeal to authority","selective evidence, fear-mongering","['hasty generalization', 'ambiguity']"
+799,negative,accusatory,no,"labeling, appeal to fear, use of absolute terms","demonization, overgeneralization, fearmongering","['hasty generalization', 'false cause']"
+800,negative,critical,yes,"repetition, anecdote, paradox","card stacking, bandwagon, glittering generalities",hasty generalization
+801,negative,accusatory,no,"enumeration, anecdotal evidence, pathos","fearmongering, scapegoating, demonization","['hasty generalization', 'post hoc ergo propter hoc']"
+802,neutral,skeptical,yes,"understatement, comparative language","ad hominem, appeal to authority, scare tactics",['hasty generalization']
+803,negative,accusatory,yes,"demonization, loaded language, appeal to fear","scapegoating, fear mongering, misleading impressions",['hasty generalization']
+804,neutral,defensive,yes,"appeal to evidence, counterargument","name-calling, fearmongering",none 
+805,negative,critical,no,"claim, appeal to emotions, generalization","demonization, oversimplification, appeal to fear",hasty generalization
+806,negative,alarmist,yes,"hypothetical scenario, anaphora","fear mongering, citing statistics","['hasty generalization', 'appeal to emotion']"
+807,negative,critique,yes,"hypothetical reasoning, appeal to authority, contrast","cherry-picking data, emotional appeal, misleading statistics",post hoc fallacy
+808,neutral,descriptive,yes,"assertion, reference","appeal to authority, red herring","['hasty generalization', 'appeal to uncertainty']"
+809,positive,informative,no,"quantitative evidence, appeal to authority","statistical manipulation, cherry-picking data",hasty generalization
+810,negative,critical,yes,"statistics, anecdotal evidence","fear appeal, scapegoating",hasty generalization
+811,positive,optimistic,no,"assertion, appeal to authority, implied urgency","bandwagon, fear, plain folks","hasty generalization, post hoc"
+812,neutral,defensive,no,"repetition, assertion, parallel structure","appeal to emotion, cherry-picking, denial of responsibility","['ad hominem', 'false analogy']"
+813,negative,cautionary,no,"statistical evidence, anecdotal evidence, cautionary language","fearmongering, appeal to authority, ambiguity",hasty generalization
+814,negative,indignant,yes,"appeal to authority, pathos, loaded language","scapegoating, fearmongering, red herring","strawman argument, appeal to fear"
+815,negative,critical,yes,"superlative, rhetorical question, anecdotal evidence","fear appeals, cherry-picking, false dilemma",hasty generalization
+816,negative,critical,yes,"loaded language, appeal to emotion","demonization, scapegoating",['false dichotomy']
+817,neutral,informative,no,"anecdote, allusion","appeal to authority, card stacking",hasty generalization
+818,neutral,defensive,no,"anaphora, euphemism, appeal to authority","doubt induction, appeal to fear",hasty generalization
+819,positive,optimistic,no,"superlatives, appeal to authority, current context","assertion, transfer, repetition",hasty generalization
+820,neutral,informative,yes,"comparison, quantification, appeal to authority","card stacking, name-calling",misleading use of statistics
+821,negative,critical,no,"hyperbole, vague language, historical context","fearmongering, appeals to authority, anecdotal evidence",hasty generalization
+822,negative,cautionary,no,"statistics, contrast, anecdote","fear, appeal to authority, selective omission","['post hoc', 'hasty generalization']"
+823,neutral,inquisitive,no,"repetition, contrasting terms","appeal to emotion, glittering generality",no logical errors
+824,neutral,informative,no,"quoting, temporal reference, causal language","selective whistleblowing, appeal to authority, framing",none 
+825,neutral,informative,no,"appeal to authority, use of specific figures, conditional language","bandwagon, scare tactics, selective evidence",hasty generalization
+826,neutral,analytical,no,"anecdote, counterargument, concession","appeal to authority, bandwagon",none 
+827,negative,accusatory,yes,"appeal to authority, quoting, contrast","scapegoating, loaded language, bandwagon",hasty generalization
+828,negative,critical,no,"metaphor, colloquialism, irony","appeal to emotion, ad hominem, casual dismissal",false cause
+829,negative,concerned,no,"comparison, emphasis, specificity","overgeneralization, fear appeal, appeal to authority",hasty generalization
+830,negative,alarmist,yes,"comparison, hyperbole, ellipsis","fearmongering, scapegoating, appeal to emotion","['false dichotomy', 'hasty generalization']"
+831,negative,critical,no,"metaphor, allusion, loaded language","ad hominem, cherry-picking, fear appeal","['hasty generalization', 'false dilemma']"
+832,neutral,factual,no,"anecdote, comparative analysis","bandwagon, appeal to authority",none 
+833,negative,critical,no,"repetition, allusion","demonization, scare tactics",hasty generalization
+834,negative,alarmist,yes,"causal reasoning, appeal to fear, anecdotal evidence, rhetorical question","scapegoating, bandwagon, appeal to tradition",hasty generalization
+835,positive,optimistic,no,"assertion, appeal to numbers, anecdotal evidence","bandwagon, appeal to authority, discrediting opposition",hasty generalization
+836,negative,critical,yes,"assertion, emphasis","scapegoating, appeal to fear",hasty generalization
+837,positive,optimistic,no,"contrast, statistical evidence, anecdotal reference","cherry-picking, fear-mongering","['post hoc', 'hasty generalization']"
+838,negative,critical,yes,"appeal to authority, juxtaposition","fear-mongering, transfer",red herring
+839,neutral,informative,no,"appeal to expertise, analogy, emphasis","fear, selective information, appeal to emotion",hasty generalization
+840,negative,critical,yes,"appeal to emotion, statistical evidence, anecdotal evidence","fear-mongering, testimonial, ad hominem","hasty generalization, post hoc"
+841,negative,cautionary,no,"metaphor, hyperbole, juxtaposition","appeal to fear, scapegoating, appeal to authority",red herring
+842,negative,critical,no,"appeal to emotion, anecdotal evidence, juxtaposition","fearmongering, card stacking",hasty generalization
+843,neutral,informative,no,"appeal to authority, anaphora, pathos","testimonial, emotional appeal, misleading statistics",hasty generalization
+844,negative,accusatory,no,"quoting, emphasis","fear-mongering, ad hominem",straw man
+845,negative,concerned,no,"appeal to authority, hyperbole, loaded language","fear mongering, scapegoating, red herring","['straw man', 'false dilemma']"
+846,negative,critical,no,"diminution, metaphor, hyperbole","ad hominem, appeal to emotion, cherry picking",straw man
+847,neutral,informative,yes,"appeal to authority, hyperbole, contrast","selective omission, emotional appeal, demonization",exaggeration
+848,negative,critical,yes,"assertion, contrast","appeal to fear, ad hominem","['hasty generalization', 'slippery slope']"
+849,negative,alarmist,no,"metaphor, statistics","fear appeal, scapegoating","['false dichotomy', 'hasty generalization']"
+850,negative,accusatory,no,"hyperbole, loaded language, appeal to fear","card stacking, testimonial, plain folks",hasty generalization
+851,negative,cautionary,no,"contrast, irony","distraction, false dilemma",hasty generalization
+852,negative,critical,no,"appeal to authority, comparison, anecdotal evidence","fear mongering, bandwagon appeal, emotional appeal","['false dichotomy', 'hasty generalization']"
+853,negative,concerned,no,"anaphora, juxtaposition, statistics","appeal to emotion, testimonial, fear-mongering",hasty generalization
+854,positive,optimistic,no,"collective effort, quantification, direct speech","bandwagon, appeal to emotion, oversimplification",hasty generalization
+855,negative,critical,yes,"appeal to authority, contrast, hyperbole","fear mongering, demonization, selective reporting",straw man argument
+856,negative,critical,yes,"ambiguity, contrast, hyperbole","misleading statistics, deflection",non sequitur
+857,negative,accusatory,yes,"example, quoting, contrast","ad hominem, card stacking, emotional appeal","['hasty generalization', 'straw man']"
+858,neutral,defensive,no,"anaphora, contrast","testimonials, emotional appeal",ambiguity
+859,neutral,assertive,yes,"anecdote, contradictory statements, pathos","fearmongering, selective quoting, dichotomy",hasty generalization
+860,negative,accusatory,yes,"accusation, imagery, emphasis","demonization, fear-mongering",hasty generalization
+861,negative,critical,yes,"pathos, anecdote","appeal to emotion, ad hominem",straw man fallacy
+862,positive,assertive,no,"assertion, superlative language, appeal to authority","glittering generalities, bandwagon",none identified
+863,negative,critical,yes,"contrast, appeal to authority","fearmongering, selective omission",hasty generalization
+864,negative,critical,no,"statistical evidence, hyperbole, appeal to emotion","card stacking, appeal to fear, transfer",hasty generalization
+865,negative,serious,no,"appeal to authority, hyperbole","fear tactics, appeal to emotion",false dilemma
+866,neutral,defensive,yes,"statistics, contrast, quotations, implying responsibility","selective omission, appeal to authority, emotional appeal, bandwagon",hasty generalization
+867,negative,critical,no,"appeal to authority, contrast, contextualization","bandwagon, fear mongering, false dilemma","['hasty generalization', 'post hoc']"
+868,positive,assertive,no,"juxtaposition, hyperbole","bandwagon, card stacking",omission
+869,negative,alarmist,yes,"appeal to authority, hypothetical scenario, numerical data","fear appeal, oversimplification",post hoc ergo propter hoc
+870,positive,optimistic,yes,"repetition, anecdote, quantification, appeal to emotion","card stacking, glittering generalities, fear appeals, transfer","['cherry picking', 'post hoc', 'hasty generalization']"
+871,negative,accusatory,no,"co-sponsorship, quantification, emotive language","fear-mongering, demonization, association",hasty generalization
+872,negative,critical,yes,"amplification, emotion appeal, quoting","fear-mongering, misleading statistics, emotional manipulation","hasty generalization, straw man "
+873,neutral,cautionary,no,"comparative analysis, authority quotation","appeal to authority, fear-mongering",ambiguity
+874,neutral,informative,yes,"appeal to authority, specificity, hyperbole","fear-mongering, selective evidence","hasty generalization, false dichotomy"
+875,negative,accusatory,yes,"historical allusion, anecdote","scapegoating, appeal to emotion",oversimplification
+876,negative,serious,yes,"quotation, emphasis, statistics","appeal to emotion, fear tactics",false cause
+877,positive,optimistic,no,"comparison, chronological structure, statistical evidence","selective omission, emotional appeal",hasty generalization
+878,negative,skeptical,yes,"appeal to authority, euphemism","ad hominem, false dichotomy","['hasty generalization', 'cherry picking']"
+879,negative,critical,no,"juxtaposition, hyperbole, allusion","fear-mongering, appeal to authority, ad hominem",post hoc fallacy
+880,negative,critical,yes,"appeal to authority, hyperbole","emotional appeal, fearmongering",['straw man']
+881,neutral,informative,yes,"public assertion, appeal to authority, repetition","card stacking, false dichotomy",misleading statistics
+882,negative,critical,no,"hypophora, anecdote, concession","appeal to emotion, scare tactics, misleading information",hasty generalization
+883,negative,serious,no,"metaphor, allusion, pathos","fearmongering, appeal to authority, statistics",hasty generalization
+884,negative,concerned,no,"appeal to emotion, hypothetical scenario, euphemism","fearmongering, cherry-picking, misleading comparison","['false dilemma', 'slippery slope']"
+885,negative,alarmist,yes,"metaphor, euphemism","fear-mongering, scare quotes","['hasty generalization', 'slippery slope']"
+886,negative,serious,no,"statistic, anecdote, emotional appeal","fearmongering, appeal to authority","['hasty generalization', 'post hoc']"
+887,negative,critical,yes,"anaphora, contrast","ad hominem, fear appeal",appeal to consequences
+888,neutral,defensive,yes,"contrast, appeal to emotion","cherry-picking data, bandwagon",misleading statistics
+889,negative,serious,no,"exclusivity, dramatic statement","fear-mongering, emotional appeal",none 
+890,positive,informative,no,"comparison, causal link, anecdotal evidence","appeal to authority, selective omission","hasty generalization, false dichotomy"
+891,negative,critical,yes,"analogy, hyperbole","fear appeal, ad hominem",faulty comparison
+892,negative,urgent,no,"conditional statement, imagery","fear appeal, authority appeal",slippery slope
+893,negative,confrontational,no,"appeal to emotion, contrast, hyperbole","name-calling, glittering generalities, bandwagon",false dilemma
+894,negative,critical,no,"labeling, statistical evidence","fear-mongering, anecdotal evidence",hasty generalization
+895,negative,alarmist,yes,"appeal to authority, hyperbole, contrast","fear-mongering, selectivity, cherry-picking",hasty generalization
+896,neutral,informative,yes,"framing, quoting","appeal to authority, card stacking","['false dichotomy', 'overgeneralization']"
+897,neutral,fact-based,no,"statistical evidence, appeal to authority, comparison","cherry-picking, bandwagon, vague language",hasty generalization
+898,positive,optimistic,yes,"assertion, historical comparison, appeal to logic","fear appeal, redirection",hasty generalization
+899,negative,critical,no,"contrast, hyperbole","scapegoating, appeal to emotion",misleading comparison
+900,positive,optimistic,no,"comparative statement, superlative usage, ambiguity","appeal to authority, emotional appeals, cherrypicking",hasty generalization
+901,negative,critical,yes,"comparison, allusion, appeal to authority","demonization, scapegoating, fearmongering","ad hominem, false dichotomy"
+902,negative,critical,yes,"misleading comparisons, understatement","scapegoating, emotional appeal",false cause
+903,negative,alarmist,no,"metaphor, hyperbole, anecdote","fearmongering, appeal to authority, slippery slope","['post hoc ergo propter hoc', 'hasty generalization']"
+904,negative,critical,no,"appeal to emotion, hyperbole","demonization, cherry-picking",hasty generalization
+905,positive,optimistic,no,"comparison, superlative","appeal to success, selective statistics","['oversimplification', 'lack of context']"
+906,neutral,informative,yes,"anaphora, contrast, appeal to authority","transfer, card stacking, glittering generalities",['ad hominem']
+907,negative,critical,no,"appeal to authority, statistics","demonization, fearmongering",hasty generalization
+908,negative,critical,no,"anecdote, statistics","fear-mongering, cherry-picking",hasty generalization
+909,positive,celebratory,no,"anecdote, contrast, allusion","appeal to emotion, cherry-picking, bandwagon",none evident
+910,negative,serious,no,"quantification, symbolism, contrast","appeal to fear, appeal to authority, selective omission",false dilemma
+911,neutral,humorous,no,"hyperbole, anecdote, irony","fearmongering, cherry-picking",non sequitur
+912,negative,critical,no,"accusation, contrast, attribution","fearmongering, glittering generalities, transfer",straw man
+913,negative,accusatory,no,"contrast, hyperbole, anaphora","appeal to emotion, fear-mongering, demonization","hasty generalization, false dichotomy"
+914,neutral,factual,no,"hyperbole, historical allusion, comparison","appeal to emotion, fear-mongering, bandwagon",false dichotomy
+915,negative,cautionary,no,"appeal to authority, conditional statement, hyperbole","fearmongering, scapegoating",slippery slope
+916,neutral,formal,yes,"appeal to authority, dichotomy, anaphora","doublespeak, card stacking, glittering generalities",false dichotomy
+917,positive,optimistic,no,"superlative, anecdote","bandwagon, euphemism",red herring
+918,positive,assurance,no,"absolute language, fact assertion","fear appeal, distraction",irrelevant conclusion
+919,negative,critical,yes,"anecdote, contradiction","transfer, fearmongering",false dilemma
+920,positive,optimistic,no,"statistics, contrast, emphasis","testimonials, appeal to fear, bandwagon",hasty generalization
+921,negative,critical,yes,"anecdotal evidence, contrast","appeal to emotion, bandwagon",red herring
+922,negative,critical,no,"hyperbole, metaphor","appeal to emotion, fearmongering",none 
+923,positive,optimistic,no,"statistical evidence, comparative analysis, appeal to emotion","card stacking, name-calling, transfer","['hasty generalization', 'post hoc reasoning']"
+924,negative,critical,yes,"anecdote, hyperbole","appeal to fear, selective reporting",oversimplification
+925,negative,alarmist,yes,"appeal to emotion, exaggeration, anecdotal evidence, contrast","demonization, false dilemma, appeal to fear",hasty generalization
+926,neutral,cautionary,yes,"anecdote, appeal to authority, hypothetical scenario","fearmongering, cherry-picking data, out of context",['hasty generalization']
+927,neutral,analytical,yes,"appeal to authority, quoting, contrast","card stacking, oversimplification",oversimplification
+928,neutral,critical,yes,"contrast, appeal to authority","cherry-picking, ad hominem",hasty generalization
+929,negative,concerned,no,"contrast, statistics, implied causation","emphasis on statistics, appeal to inequality",no direct logical errors identified
+930,negative,critical,yes,"repetition, appeal to authority, contrast","ad hominem, fearmongering, bandwagon",hasty generalization
+931,negative,critical,yes,"contrast, hyperbole, appeal to authority","card stacking, transfer",overgeneralization
+932,positive,optimistic,no,"comparison, superlative, inclusive language","card stacking, appeal to authority, misleading statistics","['hasty generalization', 'post hoc']"
+933,negative,cynical,yes,"metaphor, hyperbole, juxtaposition","emotional appeal, misleading statistics, name-calling",begging the question
+934,neutral,informative,no,"contrasting, appeal to authority","fear appeal, cherry-picking","['false dichotomy', 'post hoc']"
+935,negative,critical,no,"allegation, comparison, implied critique","scapegoating, appeal to fear, citing authority",straw man fallacy
+936,negative,cynical,no,"anecdotal evidence, contrast","cherry-picking, demonization",hasty generalization
+937,positive,optimistic,no,"anecdote, appeal to authority, repetition","bandwagon, testimonial",hasty generalization
+938,positive,persuasive,yes,"appeal to emotion, comparison, anecdotal evidence","bandwagon, card stacking",hasty generalization
+939,negative,accusatory,no,"hyperbole, repetition, contrast","card stacking, name-calling, transfer",false equivalence
+940,negative,serious,no,"anecdote, appeal to authority, contrast","fear mongering, selective omission, appeal to emotion",hasty generalization
+941,neutral,informative,no,"comparison, appeal to authority","glittering generalities, false dilemma",hasty generalization
+942,neutral,informative,no,"authority, appeal to reason, contrast","bandwagon, appeal to logic",none identified
+943,negative,critical,no,"appeal to emotion, statistical evidence","fearmongering, card stacking",false cause
+944,negative,critical,yes,"analogy, appeal to injustice, juxtaposition","demonization, fear-mongering",false analogy
+945,negative,alarmist,yes,"fear appeal, statistical evidence, anecdotal evidence","bandwagon, scare tactics, red herring",hasty generalization
+946,negative,regretful,yes,"retrospection, hyperbole","demonization, cherry-picking",false dilemma
+947,neutral,critical,yes,"euphemism, appeal to authority, contrast","cherry-picking, loaded language",false dilemma
+948,positive,optimistic,no,"anecdote, comparison, quoting","cherry-picking, bandwagon",hasty generalization
+949,neutral,descriptive,no,"comparison, statistics, visual aid","cherry-picking, fear appeal, false dichotomy","hasty generalization, post hoc"
+950,neutral,informative,no,"exception clause, analogical reasoning","selective stating, comparative framing",no fallacy present
+951,neutral,objective,no,"direct address, enumeratio, anecdote","ad hominem, scare tactics, appeal to authority","['post hoc ergo propter hoc', 'strawman']"
+952,negative,critical,yes,"comparative analysis, anecdote","appeal to authority, emotional appeal",hasty generalization
+953,negative,critical,no,"anecdotal evidence, contrast","ad hominem, selective omission",hasty generalization
+954,positive,optimistic,no,"comparative statement, quantitative assertion","appeal to emotions, selective use of data",none identified
+955,negative,urgent,no,"appeal to authority, hyperbole","fear mongering, cherry picking",red herring
+956,negative,accusatory,no,"anecdote, loaded language, contrast","transfer, demonization, bandwagon",hasty generalization
+957,neutral,analytical,no,metaphor,"appeal to authority, comparison",strawman argument
+958,neutral,analytical,yes,"appeal to authority, contrast, diminished responsibility","fear-mongering, bandwagon, ad hominem","['straw man', 'hasty generalization']"
+959,positive,assertive,no,"simplicity, causal relationship","appeal to emotion, false dilemma",oversimplification
+960,positive,optimistic,no,"juxtaposition, quantification","appeal to authority, bandwagon",faulty comparison
+961,negative,alarmist,yes,"hyperbole, emotional appeal","fear mongering, misleading statistics",['straw man']
+962,negative,defensive,yes,"antithesis, hyperbole","card-stacking, appeal to fear","['oversimplification', 'slippery slope']"
+963,negative,confrontational,no,"deniability, appeal to authority, loaded language","misleading statements, selective omission, ad hominem",straw man
+964,negative,critical,yes,"anaphora, contrast, anecdote","ad hominem, appeal to emotion, false dichotomy",hasty generalization
+965,neutral,informative,no,"statistical evidence, contrast","cherry-picking, appeal to authority",hasty generalization
+966,negative,critical,no,"ad hominem, juxtaposition","false dichotomy, appeal to authority",hasty generalization
+967,neutral,informative,yes,"appeal to authority, anecdote","loaded language, diversion",none 
+968,negative,cynical,yes,"anecdote, hyperbole","emotional appeal, false equivalence",ambiguity
+969,neutral,skeptical,no,"appeal to authority, contrast, antithesis","bandwagon, testimonial, scare tactics",appeal to consequences
+970,positive,optimistic,no,"claim, anecdote, comparative analysis","card stacking, appeal to authority, diversion",hasty generalization
+971,neutral,assertive,yes,"appeal to authority, pathos, ethos","card stacking, glittering generalities, transfer",red herring
+972,negative,accusatory,yes,"hyperbole, appeal to emotion","misleading statistics, scapegoating",['hasty generalization']
+973,negative,cynical,no,"analogy, hyperbole, question rhetoric","emotional appeal, bandwagon",false analogy
+974,negative,alarmist,no,"metaphor, statistics, anecdote","fearmongering, demonization, appeal to authority","post hoc, hasty generalization"
+975,negative,critical,yes,"comparative language, hedge phrase, generalization","appeal to fear, oversimplification, false dichotomy","['post hoc', 'appeal to authority']"
+976,negative,cynical,yes,"oversimplification, hyperbole, contrast","cherry-picking, fear mongering, appeal to emotion","['misleading conclusion', 'false dichotomy']"
+977,positive,optimistic,no,"appeal to authority, emphasis","bandwagon, glittering generalities",non sequitur
+978,neutral,informative,yes,"appeal to authority, future projection","fear-mongering, dichotomy",none 
+979,negative,cautionary,yes,"appeal to fear, rhetorical question, semantic gymnastics","fearmongering, discrediting opponents, selective information",strawman argument
+980,negative,accusatory,yes,"appeal to emotion, loaded language, ad hominem","demonization, false dichotomy",generalization
+981,negative,critical,no,"accusation, hyperbole, contrast","scapegoating, ad hominem, fearmongering",hasty generalization
+982,negative,accusatory,no,"hyperbole, anecdotal evidence","scare tactics, reduction ad absurdum",hasty generalization
+983,neutral,informative,no,"statistical evidence, anecdotal evidence, comparative analysis","fear appeal, transfer, loaded language","hasty generalization, post hoc ergo propter hoc"
+984,negative,alarmist,no,"allusion, hyperbole","bandwagon, fearmongering",straw man
+985,negative,alarmist,yes,"appeal to fear, hyperbole, labeling","demonization, assertion",slippery slope
+986,neutral,critical,yes,"anecdotal evidence, contrast","cherry-picking, bandwagon","['hasty generalization', 'false dilemma']"
+987,positive,celebratory,no,"quantification, appeal to authority","card stacking, transfer",hasty generalization
+988,neutral,informative,no,"appeal to authority, contrast","testimonial, fearmongering",none identified
+989,negative,critical,no,"precision, appeal to authority, causal relationship","emotional appeal, fear-mongering, cherry-picking",hasty generalization
+990,positive,optimistic,no,"appeal to authority, numerical evidence, contrasting statements","selective omission, scare tactics, simplification",hasty generalization
+991,positive,optimistic,no,"appeal to emotion, repetition, pathos","testimonial, appeal to authority, factual assertion",hasty generalization
+992,negative,critical,yes,"anecdotal evidence, contrast","fearmongering, dichotomy",post hoc fallacy
+993,neutral,critical,no,"ad hominem, antithesis, appeal to emotion","name-calling, half-truth, emotional appeal",hasty generalization
+994,neutral,explanatory,no,"appeal to authority, pathos","fear-mongering, bandwagon",false dilemma
+995,positive,optimistic,yes,"assertions, inclusive language, appeal to authority, contrast","card stacking, bandwagon, anecdotal evidence",hasty generalization
+996,negative,conversational and critical,yes,"contradiction, appeal to emotion","misleading context, fear tactics",false dichotomy
+997,negative,critical,no,"euphemism, implied responsibility","scapegoating, fear-mongering",oversimplification
+998,negative,critical,yes,"euphemism, hyperbole, appeal to emotion","card stacking, false dilemma",hasty generalization
+999,negative,concerned,no,"juxtaposition, hyperbole","emotional appeal, selection bias",hasty generalization
+1000,neutral,informative,no,"approximation, quantification","fearmongering, appeal to authority",none 
+1001,neutral,informative,yes,"metaphor, assertion, contrast","cherry picking, appeal to authority, glittering generality","['hasty generalization', 'false dilemma']"
+1002,neutral,informative,no,"statistics, appeal to credibility","selective, omission, ad hominem",no logical errors
+1003,negative,cautionary,no,"statistical evidence, contrast","appeal to authority, chunking",hasty generalization
+1004,negative,cynical,yes,"appeal to authority, contrasting ideas, vague language","scare tactics, simplification",false dilemma
+1005,negative,urgent,yes,"appeal to authority, hyperbole, innuendo","bandwagon, scapegoating, fearmongering",hasty generalization
+1006,negative,cautionary,yes,"quoting, appeal to the majority","bandwagon, cherry-picking",hasty generalization
+1007,neutral,mixed,yes,"exclusivity, numerical emphasis, appeal to authority","bandwagon, false dichotomy, emotional appeal",ad hominem
+1008,negative,critical,yes,"adjective usage, concession, imagery","fear appeal, cherry-picking",hasty generalization
+1009,neutral,informative,no,"contrast, anecdote","appeal to experience, reductio ad absurdum",none 
+1010,negative,alarmist,yes,"comparative analysis, hyperbole, anecdotal evidence","appeal to emotion, fearmongering, scare tactics",hasty generalization
+1011,negative,cautionary,no,"statistics, contrast, anecdote","fear-mongering, ad hominem, cherry-picking","hasty generalization, false dichotomy"
+1012,negative,concerned,yes,"statistic usage, appeal to emotion","selective reporting, fear appeal","['hasty generalization', 'misleading statistic']"
+1013,negative,critical,no,"allegation, emphasis","demonization, fear appeal",oversimplification
+1014,neutral,informational,yes,"appeal to authority, quantification, framing","selective omission, fearmongering, scapegoating",strawman
+1015,neutral,analytical,no,"comparison, statistical reference, appeal to authority","scare tactics, cherry picking, fear mongering",hasty generalization
+1016,neutral,informative,no,"allusion, juxtaposition, imagery","scare tactics, cherry-picking, appeal to authority",none identified
+1017,negative,critical,yes,"appeal to authority, emotional appeal, hypophora","card stacking, glittering generalities, fear-mongering",hasty generalization
+1018,neutral,informative,no,"statistical evidence, contrasting information, qualified statements","appeal to authority, emotional appeal",no logical fallacies present
+1019,negative,urgent,no,"appeal to emotion, hyperbole, direct address","fearmongering, demonization, selective evidence",slippery slope
+1020,negative,critical,yes,"metaphor, allusion, contrast","scare tactics, ad hominem, bandwagon",hasty generalization
+1021,neutral,inquisitive,no,"ad hominem, anecdotal evidence, appeal to emotion","card stacking, name-calling, fear mongering",straw man
+1022,negative,accusatory,yes,"ad hominem, enumeration, contrast","fear appeals, demonization, cherry-picking",straw man
+1023,neutral,informative,no,"statistics, quoting authority, historical reference","appeal to numbers, testimonial, bandwagon",none 
+1024,positive,persuasive,no,"repetition, appeal to authority, hyperbole","glittering generalities, anecdotal evidence, transfer","appeal to emotion, hasty generalization"
+1025,negative,confrontational,yes,"opposition, appeal to authority, contrast","red herring, cherry picking, fear mongering",false dichotomy
+1026,negative,accusatory,no,"comparative statement, appeal to emotion","demonization, card stacking",false dilemma
+1027,negative,critical,no,"hyperbole, repetition, appeal to fear","cherry picking, scare tactics, bandwagon",hasty generalization
+1028,negative,accusatory,no,"accusation, appeal to authority, statistics","fearmongering, ad hominem, false dichotomy",hasty generalization
+1029,negative,critical,yes,"comparison, appeal to authority, implied criticism","loaded language, anecdotal evidence, ad hominem",hasty generalization
+1030,negative,critical,yes,"analogy, hyperbole, understatement","fear-mongering, appeal to authority, demonization",hasty generalization
+1031,positive,celebratory,no,"assertion, anaphora, appeal to authority","bandwagon, euphemism, appeal to emotion",non sequitur
+1032,negative,accusatory,no,"hyperbole, irony, diction","ad hominem, appeal to emotion, scare tactics",hasty generalization
+1033,neutral,informative,yes,"appeal to authority, contrast, generalization","bandwagon, false dichotomy, plain folks",oversimplification
+1034,negative,critical,no,"juxtaposition, appeal to emotion","demonization, fear mongering",hasty generalization
+1035,negative,cautionary,yes,"statistic, emphasis","fear-mongering, selectivity",strawman argument
+1036,negative,critical,yes,"appeal to emotion, generalization, contrast","fearmongering, selective omission, bandwagon",hasty generalization
+1037,negative,alarmist,yes,"statistical evidence, temporal context","appeal to fear, cherry-picking data",ambiguity
+1038,neutral,informative,no,"contrast, appeal to authority, inclusive language","card stacking, transfer, red herring",non-sequitur
+1039,negative,critical,no,"statistical evidence, appeal to authority, concreteness, juxtaposition","card stacking, demonization, name-calling",hasty generalization
+1040,negative,critical,no,"comparative analysis, concession, appeal to authority","misleading comparisons, selective omission, ad hominem",false dilemma
+1041,negative,critical,yes,"hyperbole, loaded language, contrast","scare tactics, ad hominem, bandwagon",hasty generalization
+1042,negative,critical,yes,"comparison, concession","cherry picking, false dichotomy","['hasty generalization', 'straw man']"
+1043,negative,critical,yes,"hyperbole, anecdote","emotional appeal, scapegoating",cherry picking
+1044,negative,critical,yes,"anaphora, appeal to authority, pathos","scapegoating, bandwagon",hasty generalization
+1045,neutral,informative,no,"anecdote, statistical reference, comparison","appeal to authority, selective statistics",non sequitur
+1046,negative,critical,no,"analogy, cause and effect","simplification, fearmongering",hasty generalization
+1047,negative,critical,no,"selective omission, appeal to authority","demonization, scapegoating",hasty generalization
+1048,neutral,analytical,no,"contrast, parallelism","scapegoating, fear appeal",hasty generalization
+1049,negative,fear-driven,yes,"appeal to authority, fearmongering, contradiction","ad hominem, slippery slope, bandwagon","['hasty generalization', 'appeal to fear']"
+1050,negative,critical,yes,"anecdote, hyperbole","fear-mongering, cherry-picking",hasty generalization
+1051,positive,optimistic,no,"statistics, appeal to authority, comparative analysis","bandwagon, fear-mongering, positive framing",hasty generalization
+1052,negative,critical,no,"hyperbole, antithesis, anecdote","appeal to fear, ad hominem",false dichotomy
+1053,negative,concerned,yes,"anecdote, appeal to authority, hyperbole","fearmongering, cherry-picking, bandwagon",hasty generalization
+1054,neutral,informative,no,"appeal to authority, exaggeration","card stacking, fear mongering",hasty generalization
+1055,negative,serious,yes,"conditional statement, emphasis","equivocation, fearmongering",hasty generalization
+1056,positive,confident,no,"repetition, enumeration","appeal to authority, bandwagon",none 
+1057,negative,serious,yes,"hyperbole, chronological contrast","fear appeal, cherry-picking",false dilemma
+1058,negative,critical,yes,"questioning, enumeratio, contrast","fearmongering, scapegoating, appeal to authority","['false dichotomy', 'hasty generalization']"
+1059,neutral,objective,yes,"appeal to authority, loaded language, imagery","bandwagon, fear appeal",cherry picking
+1060,negative,cynical,no,"rhetorical question, contrast","anecdotal evidence, scapegoating",hasty generalization
+1061,negative,accusatory,no,"generalization, appeal to credibility","cherry-picking, fear-mongering",hasty generalization
+1062,negative,critical,no,"appeal to authority, causal comparison","cherry-picking, fear-mongering",['post hoc ergo propter hoc']
+1063,negative,critical,yes,"argument from consequences, fallacy of composition","ad hominem, appeal to emotion",false dilemma
+1064,negative,critical,no,"appeal to authority, hypothetical situation, dichotomy","fearmongering, scapegoating",hasty generalization
+1065,negative,critical,no,"hyperbole, analogy","fear-mongering, bandwagon",straw man
+1066,neutral,analytical,no,"comparison, hyperbole","appeal to fear, demonization",false dichotomy
+1067,neutral,informative,no,"anecdote, quotation, contrast","appeals to authority, fearmongering, selective omission",hasty generalization
+1068,neutral,formal,yes,"appeal to authority, quoting","bandwagon, obfuscation",none 
+1069,positive,optimistic,no,"statistic use, contrast, appeal to authority","bandwagon, diminishing opposing views","['hasty generalization', 'straw man']"
+1070,negative,alarmist,yes,"hyperbole, imagery, causal assertions, appeal to fear","scapegoating, fearmongering, simplification, anecdotal evidence","['post hoc ergo propter hoc', 'hasty generalization']"
+1071,negative,urgent,yes,"hyperbole, appeal to future, analogy","fearmongering, selective facts, anecdote",hasty generalization
+1072,negative,serious,no,"emotive language, appeal to pathos","fear-mongering, oversimplification",false dilemma
+1073,negative,critical,no,"comparison, statistics","cherry-picking, comparative framing",false cause
+1074,negative,critical,yes,"appeal to authority, causal relationship, hyperbole","loaded language, fear tactics, bandwagon",post hoc ergo propter hoc
+1075,negative,cautionary,no,"conditional statement, hyperbole","fear appeal, ambiguity",false dilemma
+1076,neutral,informative,yes,"juxtaposition, anecdotal evidence, implication","emotional appeal, bandwagon","['hasty generalization', 'false dichotomy']"
+1077,neutral,informative,no,"contrast, statistics","selective statistics, appeal to fear",hasty generalization
+1078,negative,admonishing,yes,"generalization, appeal to authority","bandwagon, fearmongering",hasty generalization
+1079,negative,accusatory,yes,"appeal to emotion, ad hominem, contextual framing","scare tactics, questionable authority, name-calling",strawman fallacy
+1080,negative,critical,yes,"appeal to authority, straw man, pathos","card stacking, fearmongering","['false dichotomy', 'hasty generalization']"
+1081,positive,optimistic,no,"hyperbole, enumeratio, comparative language","bandwagon, appeal  to authority, emotional appeal",non-sequitur
+1082,negative,concerned,yes,"appeal to emotion, analogical reasoning","fearmongering, false equivalence",red herring
+1083,neutral,somber,yes,"emotional appeal, antithesis, pathos","fear appeal, bandwagon, name-calling","['straw man', 'hasty generalization']"
+1084,neutral,informative,no,"appeal to authority, hyperbole, statistics","bandwagon, fear, testimonial","['false cause', 'red herring']"
+1085,neutral,cautionary,no,"hypothetical scenario, appeal to logic","simplification, emotional appeal",post hoc reasoning
+1086,negative,alarmist,no,"contrast, generalization, anecdote","scapegoating, fearmongering, appeal to emotion",hasty generalization
+1087,negative,cautionary,no,"contrast, appeal to fear","demonization, scapegoating",hasty generalization
+1088,negative,critical,no,"accusation, appeal to authority","demonization, fear-mongering",hasty generalization
+1089,negative,critical,yes,"rhetorical question, anecdotal evidence","cherry-picking, bias","['false comparison', 'misrepresentation']"
+1090,neutral,informative,yes,"enumeratio, anecdotal evidence","appeal to emotion, transfer",hasty generalization
+1091,negative,critical,no,"ad hominem, misleading context","emotional appeal, false attribution",straw man fallacy
+1092,negative,critical,no,"quote, anecdotal evidence, appeal to emotion","name-calling, emotional appeal, transfer",ad hominem
+1093,negative,accusatory,yes,"comparison, statistical appeal","scapegoating, selective omission","['hasty generalization', 'straw man']"
+1094,negative,alarmist,no,"statistical evidence, appeal to fear","selectivity, emotional appeal",hasty generalization
+1095,negative,critical,no,"contrast, hyperbole, appeal to emotion","demonization, appeal to fear, anecdotal evidence",false dilemma
+1096,positive,optimistic,no,"quoting, allusion","appeal to authority, emotional appeal",appeal to false authority
+1097,neutral,analytical,yes,"anecdote, contrast","appeal to authority, card-stacking",red herring
+1098,neutral,defensive,yes,"denial, contradiction","cherry-picking, appeal to authority",strawman fallacy
+1099,negative,serious,no,"statistics, euphemism","appeal to authority, fearmongering",hasty generalization
+1100,positive,optimistic,no,"appeal to universal benefit, false dilemma, emotive language","bandwagon, fearmongering, misleading statistics",hasty generalization
+1101,negative,cautionary,yes,"historical reference, speculation","appeal to fear, selective evidence",hasty generalization
+1102,neutral,informative,no,"analogy, hyperbole, comparative language","appeal to emotion, star power, selective omission","['hasty generalization', 'post hoc ergo propter hoc']"
+1103,negative,alarmist,no,"hyperbole, anaphora, pathos","fearmongering, demonizing the opposition, selective omission",false dilemma
+1104,negative,critical,no,"metaphor, anecdote, hyperbole","emotional appeal, actionable intelligence, selective omission",straw man
+1105,negative,critical,yes,"appeal to authority, use of specifics, emotional language","loaded language, cherry-picking data, fear-mongering",hasty generalization
+1106,negative,critical,no,"hyperbole, allusion","emotional appeal, selective reporting",hasty generalization
+1107,negative,critical,yes,"appeal to emotion, anecdotal evidence, ad hominem","bandwagon, disinformation",hasty generalization
+1108,neutral,assertive,no,"comparison, hyperbole, authority appeal","ad hominem, bandwagon, glittering generalities",false dilemma
+1109,negative,serious,no,"analysis of expectations, connotation, urgency","appeal to fear, use of expert authority, selective omission",non sequitur
+1110,negative,critical,no,"anaphora, framing","demonization, cherry-picking",false cause
+1111,negative,critical,yes,"emotional appeal, contrast, direct quotation","appeal to authority, fear-mongering, distraction","['false dichotomy', 'hasty generalization']"
+1112,negative,alarmist,yes,"hyperbole, anaphora","scare, tactics, blame",post hoc reasoning
+1113,positive,optimistic,no,"hyperbole, conditional phrase, contrast","cherry picking, misleading statistics, appeal to authority","['hasty generalization', 'oversimplification']"
+1114,negative,critical,no,"anecdote, contrast","ad hominem, card stacking",hasty generalization
+1115,negative,alarmist,yes,"causal argument, appeal to emotion, anecdotal evidence","cherry-picking, fearmongering, bandwagon","['post hoc ergo propter hoc', 'hasty generalization']"
+1116,negative,cautionary,yes,"appeal to authority, contrasting perspectives, hyperbole","fear mongering, selective evidence, bandwagon",slippery slope
+1117,negative,critical,yes,"contrast, anecdotal evidence","emotional appeal, demonization","['hasty generalization', 'ad hominem']"
+1118,negative,critical,yes,"anecdote, contrast, allusion","fear appeal, bandwagon",none 
+1119,negative,critical,no,"appeal to authority, epistemic modality","appeal to fear, cherry picking",['hasty generalization']
+1120,neutral,informative,yes,"allusion, contrast, reframing","loaded language, cherry-picking facts, appeal to emotion","['hasty generalization', 'oversimplification']"
+1121,negative,critical,yes,"anaphora, appeal to authority","scapegoating, appeal to emotion",hasty generalization
+1122,negative,serious,no,"historical context, numerical emphasis","demonization, selective quoting",['hasty generalization']
+1123,neutral,informative,no,"appeal to authority, contrast","card stacking, ad hominem",hasty generalization
+1124,positive,assertive,no,"comparison, statistical evidence","appeal to authority, selective omission",none 
+1125,negative,critical,yes,"cherry-picking, appeal to authority","fearmongering, negative framing",hasty generalization
+1126,negative,accusatory,yes,"appeal to authority, ad hominem, anecdotal evidence","fear mongering, cherry picking, demonization",hasty generalization
+1127,neutral,informative,no,"enumeration, comparative analysis","appeal to emotion, straw man",hasty generalization
+1128,negative,urgent,no,"hyperbole, pathos","appeal to fear, cherry picking",['false cause']
+1129,neutral,informative,no,"statistic use, appeal to authority, historical context","bandwagon, fear-mongering, ambiguity",hasty generalization
+1130,negative,serious,no,"statistics, exaggeration, contrast","fearmongering, appeal to emotion, truth by assertion",appeal to emotion
+1131,negative,aggressive,no,"appeal to emotion, anecdotal evidence","demonization, fearmongering",post hoc fallacy
+1132,negative,critical,no,"anecdote, contrast","appeal to tradition, ad hominem",hasty generalization
+1133,neutral,fact-based and critical,yes,"statistics, anecdotes association, appeal to emotion","demonization, card stacking, fear mongering","['hasty generalization', 'post hoc']"
+1134,neutral,analytical,no,"anecdote, generalization","emphasis on common experience, appeal to predictability",post hoc ergo propter hoc
+1135,negative,cautionary,no,"antithesis, hyperbole","appeal to emotion, fear-mongering",hasty generalization
+1136,negative,critical,yes,"loaded language, imagery, appeal to fear","demonization, cherry-picking, fear mongering",hasty generalization
+1137,neutral,informative,no,"statistics, appeal to authority","card stacking, fear appeal",no logical errors present
+1138,negative,cautionary,no,"anecdote, contrast","appeal to authority, fear-mongering",hasty generalization
+1139,negative,accusatory,no,"ad hominem, appeal to prejudice, straw man","name-calling, misleading statistics, fear-mongering","['fallacy of composition', 'red herring']"
+1140,neutral,defensive,yes,"amplification, exaggeration","appeal to authority, misleading statistics",hasty generalization
+1141,negative,critical,yes,"anecdotal evidence, attribution, contrast","fear-mongering, bandwagon, misleading statistics",false dichotomy
+1142,negative,critical,no,"appeal to emotion, loaded language, direct address","fearmongering, cherry-picking data","['strawman fallacy', 'false dilemma']"
+1143,positive,optimistic,no,"anaphora, allusion","appeal to authority, appeal to logic",begging the question
+1144,positive,optimistic,yes,"contrast, hyperbole","selective omission, appeal to emotion",ambiguity
+1145,negative,cautionary,yes,"understatement, irony","fear-mongering, disinformation","['red herring', 'appeal to fear']"
+1146,negative,accusatory,yes,"comparison, appeal to authority, emotional appeal","fearmongering, misleading statistics, demonization","hasty generalization, non sequitur"
+1147,negative,critical,no,"contrast, appeal to concern","dichotomy, ad hominem",hasty generalization
+1148,positive,optimistic,yes,"applause, endorsement, temporal anchoring","bandwagon, appeal to authority, simplicity",hasty generalization
+1149,negative,cynical,yes,"contrast, irony","appeal to authority, statistical manipulation",['false dilemma']
+1150,negative,cautionary,no,"appeal to authority, contrast, anecdotal evidence","false dilemma, scare tactics, selective omission",hasty generalization
+1151,neutral,informative,no,"statistic use, euphemism, anecdote","fearmongering, appeal to authority, emotional appeal","hasty generalization, overgeneralization"
+1152,negative,critical,yes,"concession, appeal to authority","scapegoating, fearmongering",post hoc ergo propter hoc
+1153,positive,persuasive,no,"conditional statement, quantification","appeal to fear, statistics and data",none 
+1154,negative,critical,no,"hyperbole, contrast","cherry-picking, fear-mongering",hasty generalization
+1155,neutral,assertive,yes,"appeal to authority, contrast, loaded language","card stacking, ad hominem, fear-mongering","['false dichotomy', 'hasty generalization']"
+1156,neutral,informative,no,"historical allusion, contrast, quantification","fear-mongering, appeal to authority",hasty generalization
+1157,negative,alarmist,yes,"allusion, anecdote, hyperbole","fear appeal, testimonial, demonization","['hasty generalization', 'appeal to emotion']"
+1158,negative,critical,no,"appeal to authority, conditional language","fearmongering, diversion",red herring
+1159,negative,critical,no,"anaphora, understatement, contrast","ad hominem, demonization, selective fact",oversimplification
+1160,neutral,informative,yes,"comparison, appeal to authority, generalization","selective statistics, emotional appeal, bandwagon",hasty generalization
+1161,neutral,analytical,no,"argumentation, quoting, generalization","fear appeal, misleading generalization, authority appeal",hasty generalization
+1162,neutral,analytical,yes,"comparison, juxtaposition","equivocation, loaded language","['oversimplification', 'hasty generalization']"
+1163,negative,critical,yes,"hyperbole, loaded language","selectivity, demonization",hasty generalization
+1164,neutral,informative,no,"contrast, statistics, emphasis","appeal to emotion, selective reporting, scapegoating",appeal to consequence
+1165,negative,critical,yes,"appeal to fear, generalization","fearmongering, ad hominem",hasty generalization
+1166,negative,critical,yes,"contrast, anecdote","scapegoating, appeal to emotion",hasty generalization
+1167,positive,optimistic,no,"appeal to pathos, inclusive language","bandwagon, testimonial",none 
+1168,neutral,defensive,yes,"contrast, appeal to authority, dichotomy","card-stacking, bandwagon","['hasty generalization', 'straw man']"
+1169,neutral,informative,yes,"anecdote, comparative structures, repetition","card stacking, glittering generalities",no logical errors
+1170,negative,critical,no,"comparison, appeal to authority","fear-mongering, cherry-picking statistics",false dichotomy
+1171,negative,critical,no,"dismal rating, hyperbole, appeal to authority","name-calling, testimonials, cherry-picking","['hasty generalization', 'false cause']"
+1172,neutral,informative,no,"statistical evidence, historical reference, direct quotation","appeal to authority, scare tactics, comparison","['false dilemma', 'red herring']"
+1173,neutral,informative,no,"truncation, parallelism, appeal to emotion","demonization, fearmongering, cherry-picking",['strawman fallacy']
+1174,negative,confrontational,no,"appeal to authority, misleading comparisons","fear mongering, demonization",hasty generalization
+1175,neutral,defensive,no,"appeal to authority, specificity","selective omission, ad hominem",straw man
+1176,negative,critical,no,"anaphora, appeal to emotion, historical reference","scare tactics, cherry-picking data, false dichotomy",hasty generalization
+1177,neutral,defensive,yes,"metaphor, anecdote, contrast","deflection, appeal to authority, emotion evocation",straw man
+1178,negative,critical,no,"contrast, enumeration, hyperbole","circular reasoning, ad hominem, false dichotomy",straw man
+1179,positive,inspirational,no,"anaphora, parallelism, imagery, antithesis","testimonial, card stacking, appeal to emotion",hasty generalization
+1180,negative,provocative,no,"appeal to authority, hyperbole, loaded language","fear mongering, demonization, simplification","['straw man', 'hasty generalization']"
+1181,negative,serious,yes,"statistics, comparison, emotional appeal","fear mongering, scare tactics, ad hominem",hasty generalization
+1182,negative,skeptical,yes,"juxtaposition, anecdotal evidence, rhetorical question","cherry picking, fear-mongering, appeal to emotion",hasty generalization
+1183,positive,persuasive,no,"appeal to popularity, anecdotal evidence","bandwagon, testimonial",no fallacies detected
+1184,negative,critical,yes,"contrast, allusion, loaded language","assertion, transfer, bandwagon",hasty generalization
+1185,negative,serious,no,"anecdote, urgency","appeal to fear, glittering generalities",false cause
+1186,neutral,informative,no,"anecdote, authority appeal, definitions","card stacking, bandwagon",hasty generalization
+1187,negative,critical,yes,"hyperbole, exclusivity","fear appeal, scapegoating",hasty generalization
+1188,negative,critical,no,"cherry-picking, obfuscation, comparison","scare tactics, bandwagon","['hasty generalization', 'post hoc ergo propter hoc']"
+1189,neutral,informative,yes,"anecdotal evidence, contrasting statements, qualified statements","emotional appeal, loaded language, cherry picking",none 
+1190,neutral,analytical,yes,"anecdotal evidence, hypothetical scenarios, quoting sources","false dilemma, appeal to fear",no true scotsman
+1191,negative,critical,no,"appeal to authority, hypothetical scenario, questioning","fearmongering, cherry-picking data, appeal to consequences",slippery slope
+1192,negative,aggressive,yes,"hyperbole, repetition, imagery","demonization, fearmongering, scapegoating","hasty generalization, cherry picking"
+1193,positive,optimistic,yes,"contrast, inclusive language, appeal to history","emotional appeal, cherry picking",false dilemma
+1194,neutral,informative,no,"anecdote, appeal to authority, comparative argument","demonization, scare tactics, glittering generalities",hasty generalization
+1195,positive,optimistic,no,"anaphora, allusion, metaphor","appeal to authority, transfer",hasty generalization
+1196,neutral,informative,no,"comparison, cause and effect, appeal to emotion","demonization, scare tactics, transfer","['hasty generalization', 'post hoc']"
+1197,negative,critical,yes,"repetition, appeal to emotion","selectivity, appeal to fear",['hasty generalization']
+1198,negative,concerned and oppositional,yes,"emotive language, inclusive language, appeal to friendship and family","fearmongering, selectivity, bandwagon effect",slippery slope fallacy
+1199,positive,optimistic,no,"appeal to authority, anecdotal evidence, quoting statistics","bandwagon, cherry picking, emotional appeal","hasty generalization, post hoc"
+1200,negative,critical,yes,"hyperbole, scapegoating","fear-mongering, strawman",misleading statistics
+1201,negative,concerned,yes,"anecdote, statistical reference","fear appeal, cherry-picking",hasty generalization
+1202,negative,alarmist,no,"fear appeal, hyperbole, asyndeton","card stacking, demonization, fear mongering","['slippery slope', 'hasty generalization']"
+1203,negative,critical,yes,"causation, anecdotal evidence","fear appeal, bandwagon","['post hoc', 'hasty generalization']"
+1204,negative,critical,no,"rhetorical question, anecdote","fear mongering, ad hominem",false cause
+1205,negative,critical,yes,"contrast, hyperbole","ad hominem, appeal to authority",hasty generalization
+1206,negative,critical,no,"comparative analysis, causal language, implication","card stacking, scare tactics",hasty generalization
+1207,neutral,analytical,no,"metaphor, hyperbole","fear-mongering, red herring",straw man
+1208,negative,urgent,no,"appeal to emotion, hyperbole","fearmongering, ad hominem",slippery slope
+1209,positive,optimistic,yes,"exaggeration, appeal to emotion","cherry-picking, transfer","['hasty generalization', 'false cause']"
+1210,negative,accusatory,yes,"ad hominem, assertion","scapegoating, appeal to emotion",fallacy of ambiguity
+1211,negative,accusatory,yes,"anaphora, specificity, contrast","demonization, appeal to emotion",ambiguity
+1212,negative,critical,no,"anecdotal evidence, reductio ad absurdum","scapegoating, appeal to emotion",false cause
+1213,negative,concerned,no,"amplification, comparison","fearmongering, appeal to emotion",none identified
+1214,negative,critical,no,"statistics, appeal to emotion","demonizing the opposition, fear",hasty generalization
+1215,negative,critical,yes,"anaphora, appeal to authority, loaded language","bandwagon, fear-mongering",hasty generalization
+1216,negative,accusatory,no,"anaphora, rhetorical question, allusion","appeal to fear, demonization, selective reporting","hasty generalization, post hoc ergo propter hoc"
+1217,neutral,informative,no,"statistical reference, contrast","bandwagon appeal, misleading precision","['hasty generalization', 'ambiguity']"
+1218,negative,accusatory,yes,"implied accusation, quoting/referencing","fearmongering, misrepresentation",post hoc
+1219,negative,critical,yes,"appeal to authority, comparison, emotional appeal","card stacking, scapegoating","['false dilemma', 'post hoc']"
+1220,negative,serious,yes,"statistics, appeal to emotion, overgeneralization","bandwagon, card stacking, fear appeal",hasty generalization
+1221,negative,alarming,no,"anecdotal evidence, allegation, hyperbole","fearmongering, cherry picking",hasty generalization
+1222,negative,serious,no,"statistics, comparison, dramatic language","scare tactics, selective omission, appeal to authority",hasty generalization
+1223,negative,critical,no,"anecdote, appeal to authority, hyperbole","false cause, bandwagon",hasty generalization
+1224,negative,alarmist,yes,"hyperbole, appeal to authority","fearmongering, cherry-picking data",slippery slope
+1225,negative,alarmist,no,"hyperbole, historical reference","fear-mongering, appeal to tradition",hasty generalization
+1226,positive,assertive,no,"pathos, logos, ethos","bandwagon, testimonial, card stacking",none 
+1227,neutral,informative,no,"statistics, contrast, appeal to authority","demonization, card stacking",none 
+1228,negative,confrontational,no,"hyperbole, anaphora","fear-mongering, bandwagon appeal",straw man fallacy
+1229,negative,critical,no,"hyperbole, imagery","appeal to emotion, fearmongering",oversimplification
+1230,negative,alarmist,yes,"exaggeration, anecdotal evidence","appeal to fear, cherry picking",hasty generalization
+1231,neutral,inquisitive,no,"statistics, comparison","association, card stacking",none 
+1232,negative,cautionary,yes,"hyperbole, comparison","appeal to emotion, scapegoating",['hasty generalization']
+1233,positive,defiant,yes,"hyperbole, appeal to authority, contradiction","fear appeal, bandwagon",false dichotomy
+1234,negative,accusatory,no,"anecdote, hyperbole","fear, simplification",hasty generalization
+1235,negative,critical,no,"quoting, contrast","fear-mongering, appeal to authority",none 
+1236,negative,critical,yes,"contrasting statements, appeal to authority, use of comparative analysis","cherry-picking, false dilemma, ad hominem",hasty generalization
+1237,negative,concerned,no,"causal appeal, appeal to emotion, contrast","card stacking, ad hominem, scare tactics",post hoc ergo propter hoc
+1238,negative,accusatory,yes,"appeal to emotion, demonization","misleading statistics, scapegoating",['hasty generalization']
+1239,negative,confrontational,yes,"hyperbole, anecdote, contrast","ad hominem, fearmongering, demonization","['straw man', 'hasty generalization']"
+1240,negative,alarmist,no,"hyperbole, pathos","slippery slope, fear mongering",false cause
+1241,neutral,informative,no,"observational statement, comparative analysis","appeal to tradition, selective omission",none 
+1242,positive,assertive,no,"historical reference, statistical evidence","emotional appeal, bandwagon",hasty generalization
+1243,neutral,informative,no,"statistical evidence, direct quotation, comparison","appeal to authority, selective omission, bandwagon",hasty generalization
+1244,negative,criticism,no,"juxtaposition, quotation","ad hominem, cherry-picking",hasty generalization
+1245,negative,cautionary,no,"statistical evidence, causal relationship, emotional appeal","fear appeals, generalization, scare tactics",hasty generalization
+1246,neutral,informative,no,"comparison, appeal to authority","transfer, ad hominem",no logical fallacy
+1247,negative,cautious and analytical,yes,"promise, specificity, contrast","appeal to authority, omission, euphemism","['hasty generalization', 'post hoc ergo propter hoc']"
+1248,neutral,informative,no,"rhetorical question, repetition","testimonials, bandwagon","['hasty generalization', 'ambiguity']"
+1249,positive,assertive,no,"hyperbole, authority, appeal to emotion","appeal to authority, bandwagon, card stacking",none 
+1250,negative,critical,yes,"anecdote, appeal to authority","demonization, scare tactics",straw man
+1251,negative,critical,no,"anaphora, appeal to emotion, contrast","card stacking, ad hominem, false dilemma",hasty generalization
+1252,neutral,informative,no,"juxtaposition, hyperbole","fearmongering, appeal to value",strawman fallacy
+1253,neutral,informative,no,"anaphora, direct quotation, appeal to authority","fearmongering, scapegoating",hasty generalization
+1254,neutral,factual,no,"metaphor, personification, appeal to authority","transfer, bandwagon, demonization",post hoc fallacy
+1255,negative,critical,no,"appeal to emotion, ad hominem","straw man, appeal to authority",begging the question
+1256,negative,critical,yes,"appeal to emotion, diminished syntax","scare tactics, false dichotomy",hasty generalization
+1257,negative,critical,no,"unqualified assertion, appeal to authority, loaded language","scare tactics, straw man, misleading statistics","['hasty generalization', 'false cause']"
+1258,neutral,inquisitive,no,"assumption, anecdote, importance emphasis","appeal to authority, selective omission","['hasty generalization', 'ambiguity']"
+1259,negative,despairing,no,"contrast, hyperbole, parallel structure","emotional appeal, anecdotal evidence, appeal to fear",overgeneralization
+1260,negative,critical,no,"undermining, use of numbers","emotional appeal, selective omission",hasty generalization
+1261,neutral,informative,no,"statistical reference, authority appeal, comparative statement","bandwagon, appeal to fear, testimonial",false cause
+1262,positive,assertive,yes,"hyperbole, appeal to authority, bandwagon","ad hominem, cherry picking, equivocation","straw man, non sequitur"
+1263,positive,assertive,no,"anaphora, imagery, parallelism","bandwagon, scapegoating, fear appeal",no logical fallacy
+1264,neutral,factual,no,"historical reference, euphemism, appeal to authority","fear-mongering, selective omission",none 
+1265,neutral,factual,yes,"contrast, anecdotal evidence, hyperbolic comparison","demonization, testimonial, differentiation",strawman argument
+1266,negative,critical,yes,"appeal to emotion, repetition","card stacking, glittering generalities",hasty generalization
